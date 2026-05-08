@@ -23,6 +23,7 @@ function AdvBadge({ score }: { score: number }) {
 
 export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
   const [input, setInput] = useState('');
+  const [showUsedList, setShowUsedList] = useState(false);
   const chatRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const topRef = useRef<HTMLDivElement>(null);
@@ -61,6 +62,50 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
         <span>{state.isPlayerTurn ? '▶ あなたのばん' : '… かんがえちゅう'}</span>
         <span>つぎ:「{state.currentMora}」</span>
       </div>
+
+      {/* Score legend */}
+      <div
+        className="px-2 py-0.5 flex gap-2"
+        style={{ background: 'var(--gb-lightest)', borderBottom: '2px solid var(--gb-dark)', fontSize: '7px', color: 'var(--gb-darkest)' }}
+      >
+        <span>ごびスコア:</span>
+        <span>★=よい</span>
+        <span>△=ふつう</span>
+        <span>✕=あぶない</span>
+        <span style={{ opacity: 0.7 }}>（1・2だいのつかえるポケモン数）</span>
+      </div>
+
+      {/* Used Pokémon toggle */}
+      <button
+        type="button"
+        onClick={() => setShowUsedList(s => !s)}
+        className="w-full flex justify-between items-center px-2 py-0.5"
+        style={{ background: 'var(--gb-light)', borderBottom: '2px solid var(--gb-dark)', fontSize: '8px', color: 'var(--gb-darkest)', cursor: 'pointer' }}
+      >
+        <span>つかったポケモン ({state.history.length}こ)</span>
+        <span>{showUsedList ? '▲ とじる' : '▼ みる'}</span>
+      </button>
+      {showUsedList && (
+        <div
+          className="px-2 py-1 flex flex-wrap gap-1 overflow-y-auto"
+          style={{ maxHeight: '64px', background: 'var(--gb-lightest)', borderBottom: '2px solid var(--gb-dark)' }}
+        >
+          {state.history.map((turn, i) => (
+            <span
+              key={i}
+              style={{
+                fontSize: '8px',
+                padding: '1px 4px',
+                background: turn.player === 'cpu' ? 'var(--gb-dark)' : 'var(--gb-light)',
+                color: turn.player === 'cpu' ? 'var(--gb-lightest)' : 'var(--gb-darkest)',
+                border: '1px solid var(--gb-darkest)',
+              }}
+            >
+              {turn.pokemon.nameJa}
+            </span>
+          ))}
+        </div>
+      )}
 
       {/* Chat area */}
       <div ref={chatRef} className="flex-1 overflow-y-auto p-2 flex flex-col gap-2" style={{ minHeight: 0 }}>
