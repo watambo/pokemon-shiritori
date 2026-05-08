@@ -37,10 +37,6 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
     chatRef.current?.scrollTo({ top: chatRef.current.scrollHeight, behavior: 'smooth' });
   }, [state.history]);
 
-  // Focus input when it becomes player's turn
-  useEffect(() => {
-    if (state.isPlayerTurn) inputRef.current?.focus();
-  }, [state.isPlayerTurn]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

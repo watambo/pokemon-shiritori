@@ -3,9 +3,18 @@ export const SMALL_TO_LARGE: Record<string, string> = {
   'ャ': 'ヤ', 'ュ': 'ユ', 'ョ': 'ヨ', 'ッ': 'ツ',
 };
 
+// Special characters that appear at end of Pokémon names → their last mora
+const SPECIAL_CHAR_MORA: Record<string, string> = {
+  '♀': 'ス', // ニドラン♀ → メス → ス
+  '♂': 'ス', // ニドラン♂ → オス → ス
+  '２': 'ツ', // ポリゴン２ → ツー → ツ
+  'Ｚ': 'ト', // ポリゴンＺ → ゼット → ト
+};
+
 export function getLastMora(name: string): string {
   const chars = [...name];
   let last = chars[chars.length - 1];
+  if (last in SPECIAL_CHAR_MORA) return SPECIAL_CHAR_MORA[last];
   if (last === 'ー') last = chars[chars.length - 2] ?? last;
   return SMALL_TO_LARGE[last] ?? last;
 }

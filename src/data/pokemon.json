@@ -353,7 +353,7 @@
     "nameJa": "ニドラン♀",
     "generation": 1,
     "firstMora": "ニ",
-    "lastMora": "♀",
+    "lastMora": "ス",
     "types": [
       "poison"
     ],
@@ -390,7 +390,7 @@
     "nameJa": "ニドラン♂",
     "generation": 1,
     "firstMora": "ニ",
-    "lastMora": "♂",
+    "lastMora": "ス",
     "types": [
       "poison"
     ],
@@ -2897,7 +2897,7 @@
     "nameJa": "ポリゴン２",
     "generation": 2,
     "firstMora": "ポ",
-    "lastMora": "２",
+    "lastMora": "ツ",
     "types": [
       "normal"
     ],
@@ -5352,7 +5352,7 @@
     "nameJa": "ポリゴンＺ",
     "generation": 4,
     "firstMora": "ポ",
-    "lastMora": "Ｚ",
+    "lastMora": "ト",
     "types": [],
     "isLegendary": false,
     "isMythical": false
