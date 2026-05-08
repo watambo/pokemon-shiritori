@@ -41,12 +41,12 @@ export function isMajorPokemon(p: Pokemon): boolean {
 }
 
 export function getGen12Hints(mora: string, usedIds: Set<number>): Pokemon[] {
-  return (gen12ByFirstMora[mora] ?? []).filter(p => !usedIds.has(p.id));
+  return (gen12ByFirstMora[mora] ?? []).filter(p => !usedIds.has(p.id) && p.lastMora !== 'ン');
 }
 
 /** Returns hint candidates: Gen1/2 first, fallback to major Pokémon if none available */
 export function getHintCandidates(mora: string, usedIds: Set<number>): { pokemon: Pokemon; isFallback: boolean }[] {
-  const gen12 = getGen12Hints(mora, usedIds).filter(p => p.lastMora !== 'ン');
+  const gen12 = getGen12Hints(mora, usedIds); // ン-ending already excluded in getGen12Hints
   if (gen12.length > 0) {
     return gen12.slice(0, 3).map(p => ({ pokemon: p, isFallback: false }));
   }
