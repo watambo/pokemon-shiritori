@@ -25,6 +25,7 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
   const [input, setInput] = useState('');
   const chatRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
+  const topRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     chatRef.current?.scrollTo({ top: chatRef.current.scrollHeight, behavior: 'smooth' });
@@ -44,7 +45,7 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
   return (
     <div className="gb-screen flex flex-col h-full">
       {/* Timer bar */}
-      <div style={{ background: 'var(--gb-light)', height: '14px', position: 'relative' }}>
+      <div ref={topRef} style={{ background: 'var(--gb-light)', height: '14px', position: 'relative' }}>
         <div className={`timer-bar${timerWarn ? ' warn' : ''}`} style={{ width: `${timerPct}%` }} />
         <span className="absolute right-1 top-0 leading-[14px]" style={{ fontSize: '8px', color: 'var(--gb-lightest)' }}>
           {state.timeLeft}s
@@ -154,6 +155,7 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
             placeholder={state.isPlayerTurn ? `「${state.currentMora}」から…` : ''}
             disabled={!state.isPlayerTurn}
             autoComplete="off"
+            onBlur={() => topRef.current?.scrollIntoView({ behavior: 'smooth' })}
           />
           <button type="submit" className="gb-btn" disabled={!state.isPlayerTurn || !input.trim()}>
             ▶
