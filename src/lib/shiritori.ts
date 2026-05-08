@@ -70,9 +70,9 @@ export function getAdvantageLevel(score: number): 'great' | 'ok' | 'danger' {
 
 export function getAdvantageLabel(score: number): string {
   const level = getAdvantageLevel(score);
-  if (level === 'great') return `★ ${score}種`;
-  if (level === 'ok')    return `△ ${score}種`;
-  return `✕ ${score}種`;
+  if (level === 'great') return `★ ${score}しゅ`;
+  if (level === 'ok')    return `△ ${score}しゅ`;
+  return `✕ ${score}しゅ`;
 }
 
 export function getValidMoves(
@@ -93,16 +93,16 @@ export function validatePlayerInput(
   usedIds: Set<number>,
 ): { valid: boolean; error?: string; pokemon?: Pokemon } {
   const name = normalizeKana(input);
-  if (!name) return { valid: false, error: '名前を入力してください' };
+  if (!name) return { valid: false, error: 'なまえをにゅうりょくしてください' };
 
   const pokemon = findPokemon(name);
   if (!pokemon) return { valid: false, error: `「${name}」はポケモンではありません` };
-  if (usedIds.has(pokemon.id)) return { valid: false, error: `「${name}」はすでに使われました` };
+  if (usedIds.has(pokemon.id)) return { valid: false, error: `「${name}」はすでにつかわれました` };
   if (pokemon.firstMora !== currentMora) {
-    return { valid: false, error: `「${currentMora}」から始めてください` };
+    return { valid: false, error: `「${currentMora}」からはじめてください` };
   }
   if (pokemon.lastMora === 'ン') {
-    return { valid: false, error: `「${name}」は「ン」で終わるので負けです！` };
+    return { valid: false, error: `「${name}」は「ン」でおわるのでまけです！` };
   }
 
   return { valid: true, pokemon };
