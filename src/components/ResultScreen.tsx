@@ -1,5 +1,5 @@
 import type { GameResult } from '../types';
-import { getAdvantageLabel, getAdvantageLevel, getAdvantageScore, getHintCandidates, TYPE_JA } from '../lib/shiritori';
+import { getAdvantageLabel, getAdvantageLevel, getAdvantageScore, getHintCandidates, getValidMoves, TYPE_JA } from '../lib/shiritori';
 
 interface Props {
   result: GameResult;
@@ -40,23 +40,51 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
       {result.loseReason === 'timeout' && result.loser === 'player' && result.stuckMora && (() => {
         const usedIds = new Set(result.history.map(t => t.pokemon.id));
         const hints = getHintCandidates(result.stuckMora, usedIds);
+        // Gen3+ options sorted by advantage score (same logic as "おぼえるといい")
+        const gen3Options = getValidMoves(result.stuckMora, usedIds)
+          .filter(p => p.generation > 2 && p.lastMora !== 'ン')
+          .sort((a, b) => getAdvantageScore(b.lastMora, usedIds) - getAdvantageScore(a.lastMora, usedIds))
+          .slice(0, 3);
         return (
-          <div className="mx-2 mt-2 p-2" style={{ background: 'var(--gb-lightest)', border: '3px solid var(--gb-darkest)' }}>
-            <div className="mb-1" style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
-              ⏰ 「{result.stuckMora}」でじかんぎれ ── だせたポケモン
-            </div>
-            {hints.length > 0 ? (
-              <div className="flex flex-col gap-1">
-                {hints.map(({ pokemon: p, isFallback }) => (
-                  <div key={p.id} className="flex items-center gap-2" style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
-                    <span>{p.nameJa}</span>
-                    {p.types.length > 0 && <span style={{ opacity: 0.7 }}>({typeLabel(p.types)})</span>}
-                    {isFallback && <span style={{ fontSize: '8px', opacity: 0.6 }}>Gen{p.generation}</span>}
-                  </div>
-                ))}
+          <div className="mx-2 mt-2 flex flex-col gap-1">
+            {/* Gen1/2 options */}
+            <div className="p-2" style={{ background: 'var(--gb-lightest)', border: '3px solid var(--gb-darkest)' }}>
+              <div className="mb-1" style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
+                ⏰ 「{result.stuckMora}」でじかんぎれ ── だせたポケモン（1・2だい）
               </div>
-            ) : (
-              <div style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>こうほなし（つみでした）</div>
+              {hints.length > 0 ? (
+                <div className="flex flex-col gap-1">
+                  {hints.map(({ pokemon: p, isFallback }) => (
+                    <div key={p.id} className="flex items-center gap-2" style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
+                      <span>{p.nameJa}</span>
+                      {p.types.length > 0 && <span style={{ opacity: 0.7 }}>({typeLabel(p.types)})</span>}
+                      {isFallback && <span style={{ fontSize: '8px', opacity: 0.6 }}>Gen{p.generation}</span>}
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>なし</div>
+              )}
+            </div>
+            {/* Gen3+ study targets */}
+            {gen3Options.length > 0 && (
+              <div className="p-2" style={{ background: 'var(--gb-lightest)', border: '2px dashed var(--gb-darkest)' }}>
+                <div className="mb-1" style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
+                  📖 おぼえるといい（Gen3+）
+                </div>
+                <div className="flex flex-col gap-1">
+                  {gen3Options.map(p => (
+                    <div key={p.id} style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
+                      <strong>{p.nameJa}</strong>
+                      <span className="ml-1" style={{ opacity: 0.7 }}>（Gen{p.generation}）</span>
+                      {p.types.length > 0 && (
+                        <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(p.types)})</span>
+                      )}
+                      <span className="ml-2">{getAdvantageLabel(getAdvantageScore(p.lastMora, usedIds))}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
             )}
           </div>
         );

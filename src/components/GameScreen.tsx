@@ -63,18 +63,6 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
         <span>つぎ:「{state.currentMora}」</span>
       </div>
 
-      {/* Score legend */}
-      <div
-        className="px-2 py-0.5 flex gap-2"
-        style={{ background: 'var(--gb-lightest)', borderBottom: '2px solid var(--gb-dark)', fontSize: '7px', color: 'var(--gb-darkest)' }}
-      >
-        <span>ごびスコア:</span>
-        <span>★=よい</span>
-        <span>△=ふつう</span>
-        <span>✕=あぶない</span>
-        <span style={{ opacity: 0.7 }}>（1・2だいのつかえるポケモン数）</span>
-      </div>
-
       {/* Used Pokémon toggle */}
       <button
         type="button"
