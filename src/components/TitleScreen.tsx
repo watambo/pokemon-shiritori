@@ -21,11 +21,8 @@ export function TitleScreen({ onStart }: Props) {
         <div style={{ fontSize: '11px', lineHeight: '2', letterSpacing: '0.2em', color: 'var(--gb-dark)', marginBottom: '4px' }}>
           ★ POKEMON ★
         </div>
-        <div style={{ fontSize: '18px', lineHeight: '2', color: 'var(--gb-darkest)', textShadow: '3px 3px 0 var(--gb-light)' }}>
-          しりとり
-        </div>
-        <div style={{ fontSize: '18px', lineHeight: '2', color: 'var(--gb-darkest)', textShadow: '3px 3px 0 var(--gb-light)' }}>
-          どうじょう
+        <div style={{ fontSize: '14px', lineHeight: '2.2', color: 'var(--gb-darkest)', textShadow: '3px 3px 0 var(--gb-light)', letterSpacing: '0.05em' }}>
+          しりとりどうじょう
         </div>
       </div>
 

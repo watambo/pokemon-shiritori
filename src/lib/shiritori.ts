@@ -117,8 +117,17 @@ export function getBestPlayerMove(
   mora: string,
   usedIds: Set<number>,
 ): Pokemon | undefined {
-  // Only Gen1/2, no ン-ending
   const moves = getValidMoves(mora, usedIds, gen12Pokemon).filter(p => p.lastMora !== 'ン');
+  if (!moves.length) return undefined;
+  return moves.sort((a, b) => getAdvantageScore(b.lastMora, usedIds) - getAdvantageScore(a.lastMora, usedIds))[0];
+}
+
+/** Best move from ALL generations (no ン-ending). Used to surface non-Gen1/2 study targets. */
+export function getBestMoveAllGen(
+  mora: string,
+  usedIds: Set<number>,
+): Pokemon | undefined {
+  const moves = getValidMoves(mora, usedIds, allPokemon).filter(p => p.lastMora !== 'ン');
   if (!moves.length) return undefined;
   return moves.sort((a, b) => getAdvantageScore(b.lastMora, usedIds) - getAdvantageScore(a.lastMora, usedIds))[0];
 }

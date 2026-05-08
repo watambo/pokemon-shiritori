@@ -97,28 +97,52 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
 
               {/* Best alternative for player turns */}
               {!isCpu && (
-                <div
-                  className="p-1 mt-1"
-                  style={{ background: isOptimal ? 'var(--gb-light)' : 'var(--gb-lightest)', border: '2px solid var(--gb-darkest)', color: 'var(--gb-darkest)', fontSize: '8px' }}
-                >
-                  {isOptimal ? (
-                    <span>✓ さいぜんてでした！</span>
-                  ) : (
-                    <>
-                      <div className="mb-1">
-                        💡 さいぜんて: <strong>{best!.nameJa}</strong>
-                        {best!.types.length > 0 && (
-                          <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(best!.types)})</span>
-                        )}
+                <div className="flex flex-col gap-1 mt-1">
+                  {/* Gen1/2 best */}
+                  <div
+                    className="p-1"
+                    style={{ background: isOptimal ? 'var(--gb-light)' : 'var(--gb-lightest)', border: '2px solid var(--gb-darkest)', color: 'var(--gb-darkest)', fontSize: '8px' }}
+                  >
+                    {isOptimal ? (
+                      <span>✓ さいぜんてでした！</span>
+                    ) : (
+                      <>
+                        <div className="mb-1">
+                          💡 さいぜんて: <strong>{best!.nameJa}</strong>
+                          {best!.types.length > 0 && (
+                            <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(best!.types)})</span>
+                          )}
+                        </div>
+                        <div>
+                          ごび「{best!.lastMora}」→ {getAdvantageLabel(getAdvantageScore(best!.lastMora))}
+                          <span className="ml-2" style={{ opacity: 0.7 }}>
+                            （あなたの「{turn.pokemon.lastMora}」は {getAdvantageLabel(turn.advantageScore)}）
+                          </span>
+                        </div>
+                      </>
+                    )}
+                  </div>
+                  {/* All-gen study target (only shown when non-Gen1/2 is strictly better) */}
+                  {turn.bestMoveAllGen && (() => {
+                    const ag = turn.bestMoveAllGen!;
+                    return (
+                      <div
+                        className="p-1"
+                        style={{ background: 'var(--gb-lightest)', border: '2px dashed var(--gb-darkest)', color: 'var(--gb-darkest)', fontSize: '8px' }}
+                      >
+                        <div className="mb-1">
+                          📖 おぼえるといい: <strong>{ag.nameJa}</strong>
+                          <span className="ml-1" style={{ opacity: 0.7 }}>（Gen{ag.generation}）</span>
+                          {ag.types.length > 0 && (
+                            <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(ag.types)})</span>
+                          )}
+                        </div>
+                        <div>
+                          ごび「{ag.lastMora}」→ {getAdvantageLabel(getAdvantageScore(ag.lastMora))}
+                        </div>
                       </div>
-                      <div>
-                        ごび「{best!.lastMora}」→ {getAdvantageLabel(getAdvantageScore(best!.lastMora))}
-                        <span className="ml-2" style={{ opacity: 0.7 }}>
-                          （あなたの「{turn.pokemon.lastMora}」は {getAdvantageLabel(turn.advantageScore)}）
-                        </span>
-                      </div>
-                    </>
-                  )}
+                    );
+                  })()}
                 </div>
               )}
             </div>

@@ -5,6 +5,7 @@ import {
   gen12Pokemon,
   getAdvantageScore,
   getBestPlayerMove,
+  getBestMoveAllGen,
   getValidMoves,
   validatePlayerInput,
 } from '../lib/shiritori';
@@ -186,14 +187,22 @@ export function useGame() {
         newUsed.add(pokemon.id);
         const advScore = getAdvantageScore(pokemon.lastMora, newUsed);
 
-        // Best alternative for this player turn
-        const best = getBestPlayerMove(s.currentMora, s.usedIds);
+        // Best Gen1/2 alternative for this player turn
+        const best12 = getBestPlayerMove(s.currentMora, s.usedIds);
+        const best12Score = best12 ? getAdvantageScore(best12.lastMora, newUsed) : 0;
+
+        // Best all-gen move — only store if it's a non-Gen1/2 Pokémon that's strictly better
+        const bestAll = getBestMoveAllGen(s.currentMora, s.usedIds);
+        const bestAllScore = bestAll ? getAdvantageScore(bestAll.lastMora, newUsed) : 0;
+        const bestMoveAllGen =
+          bestAll && bestAll.generation > 2 && bestAllScore > best12Score ? bestAll : undefined;
 
         const turn: Turn = {
           player: 'player',
           pokemon,
           advantageScore: advScore,
-          bestAlternative: best?.id !== pokemon.id ? best : undefined,
+          bestAlternative: best12?.id !== pokemon.id ? best12 : undefined,
+          bestMoveAllGen,
         };
         const newHistory = [...s.history, turn];
 

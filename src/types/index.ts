@@ -18,7 +18,8 @@ export interface Turn {
   player: TurnPlayer;
   pokemon: Pokemon;
   advantageScore: number;
-  bestAlternative?: Pokemon;
+  bestAlternative?: Pokemon;    // best Gen1/2 alternative
+  bestMoveAllGen?: Pokemon;     // best all-gen move if better than Gen1/2 best (study target)
 }
 
 export interface GameResult {
