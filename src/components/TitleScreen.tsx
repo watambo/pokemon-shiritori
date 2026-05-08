@@ -8,7 +8,7 @@ interface Props {
 const DIFFICULTIES: { value: Difficulty; label: string; desc: string }[] = [
   { value: 'easy',   label: 'よわい',  desc: 'ランダムにえらぶ' },
   { value: 'medium', label: 'ふつう',  desc: '1・2だいをねらう' },
-  { value: 'hard',   label: 'つよい',  desc: 'ていこうさいしょう' },
+  { value: 'hard',   label: 'つよい',  desc: 'のがれられない！' },
 ];
 
 export function TitleScreen({ onStart }: Props) {
