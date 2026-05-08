@@ -1,0 +1,10870 @@
+[
+  {
+    "id": 1,
+    "nameJa": "フシギダネ",
+    "generation": 1,
+    "firstMora": "フ",
+    "lastMora": "ネ",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 2,
+    "nameJa": "フシギソウ",
+    "generation": 1,
+    "firstMora": "フ",
+    "lastMora": "ウ",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 3,
+    "nameJa": "フシギバナ",
+    "generation": 1,
+    "firstMora": "フ",
+    "lastMora": "ナ",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 4,
+    "nameJa": "ヒトカゲ",
+    "generation": 1,
+    "firstMora": "ヒ",
+    "lastMora": "ゲ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 5,
+    "nameJa": "リザード",
+    "generation": 1,
+    "firstMora": "リ",
+    "lastMora": "ド",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 6,
+    "nameJa": "リザードン",
+    "generation": 1,
+    "firstMora": "リ",
+    "lastMora": "ン",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 7,
+    "nameJa": "ゼニガメ",
+    "generation": 1,
+    "firstMora": "ゼ",
+    "lastMora": "メ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 8,
+    "nameJa": "カメール",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ル",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 9,
+    "nameJa": "カメックス",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ス",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 10,
+    "nameJa": "キャタピー",
+    "generation": 1,
+    "firstMora": "キ",
+    "lastMora": "ピ",
+    "types": [
+      "bug"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 11,
+    "nameJa": "トランセル",
+    "generation": 1,
+    "firstMora": "ト",
+    "lastMora": "ル",
+    "types": [
+      "bug"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 12,
+    "nameJa": "バタフリー",
+    "generation": 1,
+    "firstMora": "バ",
+    "lastMora": "リ",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 13,
+    "nameJa": "ビードル",
+    "generation": 1,
+    "firstMora": "ビ",
+    "lastMora": "ル",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 14,
+    "nameJa": "コクーン",
+    "generation": 1,
+    "firstMora": "コ",
+    "lastMora": "ン",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 15,
+    "nameJa": "スピアー",
+    "generation": 1,
+    "firstMora": "ス",
+    "lastMora": "ア",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 16,
+    "nameJa": "ポッポ",
+    "generation": 1,
+    "firstMora": "ポ",
+    "lastMora": "ポ",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 17,
+    "nameJa": "ピジョン",
+    "generation": 1,
+    "firstMora": "ピ",
+    "lastMora": "ン",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 18,
+    "nameJa": "ピジョット",
+    "generation": 1,
+    "firstMora": "ピ",
+    "lastMora": "ト",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 19,
+    "nameJa": "コラッタ",
+    "generation": 1,
+    "firstMora": "コ",
+    "lastMora": "タ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 20,
+    "nameJa": "ラッタ",
+    "generation": 1,
+    "firstMora": "ラ",
+    "lastMora": "タ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 21,
+    "nameJa": "オニスズメ",
+    "generation": 1,
+    "firstMora": "オ",
+    "lastMora": "メ",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 22,
+    "nameJa": "オニドリル",
+    "generation": 1,
+    "firstMora": "オ",
+    "lastMora": "ル",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 23,
+    "nameJa": "アーボ",
+    "generation": 1,
+    "firstMora": "ア",
+    "lastMora": "ボ",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 24,
+    "nameJa": "アーボック",
+    "generation": 1,
+    "firstMora": "ア",
+    "lastMora": "ク",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 25,
+    "nameJa": "ピカチュウ",
+    "generation": 1,
+    "firstMora": "ピ",
+    "lastMora": "ウ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 26,
+    "nameJa": "ライチュウ",
+    "generation": 1,
+    "firstMora": "ラ",
+    "lastMora": "ウ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 27,
+    "nameJa": "サンド",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ド",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 28,
+    "nameJa": "サンドパン",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ン",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 29,
+    "nameJa": "ニドラン♀",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "♀",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 30,
+    "nameJa": "ニドリーナ",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "ナ",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 31,
+    "nameJa": "ニドクイン",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "ン",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 32,
+    "nameJa": "ニドラン♂",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "♂",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 33,
+    "nameJa": "ニドリーノ",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "ノ",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 34,
+    "nameJa": "ニドキング",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "グ",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 35,
+    "nameJa": "ピッピ",
+    "generation": 1,
+    "firstMora": "ピ",
+    "lastMora": "ピ",
+    "types": [
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 36,
+    "nameJa": "ピクシー",
+    "generation": 1,
+    "firstMora": "ピ",
+    "lastMora": "シ",
+    "types": [
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 37,
+    "nameJa": "ロコン",
+    "generation": 1,
+    "firstMora": "ロ",
+    "lastMora": "ン",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 38,
+    "nameJa": "キュウコン",
+    "generation": 1,
+    "firstMora": "キ",
+    "lastMora": "ン",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 39,
+    "nameJa": "プリン",
+    "generation": 1,
+    "firstMora": "プ",
+    "lastMora": "ン",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 40,
+    "nameJa": "プクリン",
+    "generation": 1,
+    "firstMora": "プ",
+    "lastMora": "ン",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 41,
+    "nameJa": "ズバット",
+    "generation": 1,
+    "firstMora": "ズ",
+    "lastMora": "ト",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 42,
+    "nameJa": "ゴルバット",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "ト",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 43,
+    "nameJa": "ナゾノクサ",
+    "generation": 1,
+    "firstMora": "ナ",
+    "lastMora": "サ",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 44,
+    "nameJa": "クサイハナ",
+    "generation": 1,
+    "firstMora": "ク",
+    "lastMora": "ナ",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 45,
+    "nameJa": "ラフレシア",
+    "generation": 1,
+    "firstMora": "ラ",
+    "lastMora": "ア",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 46,
+    "nameJa": "パラス",
+    "generation": 1,
+    "firstMora": "パ",
+    "lastMora": "ス",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 47,
+    "nameJa": "パラセクト",
+    "generation": 1,
+    "firstMora": "パ",
+    "lastMora": "ト",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 48,
+    "nameJa": "コンパン",
+    "generation": 1,
+    "firstMora": "コ",
+    "lastMora": "ン",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 49,
+    "nameJa": "モルフォン",
+    "generation": 1,
+    "firstMora": "モ",
+    "lastMora": "ン",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 50,
+    "nameJa": "ディグダ",
+    "generation": 1,
+    "firstMora": "デ",
+    "lastMora": "ダ",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 51,
+    "nameJa": "ダグトリオ",
+    "generation": 1,
+    "firstMora": "ダ",
+    "lastMora": "オ",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 52,
+    "nameJa": "ニャース",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "ス",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 53,
+    "nameJa": "ペルシアン",
+    "generation": 1,
+    "firstMora": "ペ",
+    "lastMora": "ン",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 54,
+    "nameJa": "コダック",
+    "generation": 1,
+    "firstMora": "コ",
+    "lastMora": "ク",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 55,
+    "nameJa": "ゴルダック",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "ク",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 56,
+    "nameJa": "マンキー",
+    "generation": 1,
+    "firstMora": "マ",
+    "lastMora": "キ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 57,
+    "nameJa": "オコリザル",
+    "generation": 1,
+    "firstMora": "オ",
+    "lastMora": "ル",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 58,
+    "nameJa": "ガーディ",
+    "generation": 1,
+    "firstMora": "ガ",
+    "lastMora": "イ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 59,
+    "nameJa": "ウインディ",
+    "generation": 1,
+    "firstMora": "ウ",
+    "lastMora": "イ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 60,
+    "nameJa": "ニョロモ",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "モ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 61,
+    "nameJa": "ニョロゾ",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "ゾ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 62,
+    "nameJa": "ニョロボン",
+    "generation": 1,
+    "firstMora": "ニ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 63,
+    "nameJa": "ケーシィ",
+    "generation": 1,
+    "firstMora": "ケ",
+    "lastMora": "イ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 64,
+    "nameJa": "ユンゲラー",
+    "generation": 1,
+    "firstMora": "ユ",
+    "lastMora": "ラ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 65,
+    "nameJa": "フーディン",
+    "generation": 1,
+    "firstMora": "フ",
+    "lastMora": "ン",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 66,
+    "nameJa": "ワンリキー",
+    "generation": 1,
+    "firstMora": "ワ",
+    "lastMora": "キ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 67,
+    "nameJa": "ゴーリキー",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "キ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 68,
+    "nameJa": "カイリキー",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "キ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 69,
+    "nameJa": "マダツボミ",
+    "generation": 1,
+    "firstMora": "マ",
+    "lastMora": "ミ",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 70,
+    "nameJa": "ウツドン",
+    "generation": 1,
+    "firstMora": "ウ",
+    "lastMora": "ン",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 71,
+    "nameJa": "ウツボット",
+    "generation": 1,
+    "firstMora": "ウ",
+    "lastMora": "ト",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 72,
+    "nameJa": "メノクラゲ",
+    "generation": 1,
+    "firstMora": "メ",
+    "lastMora": "ゲ",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 73,
+    "nameJa": "ドククラゲ",
+    "generation": 1,
+    "firstMora": "ド",
+    "lastMora": "ゲ",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 74,
+    "nameJa": "イシツブテ",
+    "generation": 1,
+    "firstMora": "イ",
+    "lastMora": "テ",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 75,
+    "nameJa": "ゴローン",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "ン",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 76,
+    "nameJa": "ゴローニャ",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "ヤ",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 77,
+    "nameJa": "ポニータ",
+    "generation": 1,
+    "firstMora": "ポ",
+    "lastMora": "タ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 78,
+    "nameJa": "ギャロップ",
+    "generation": 1,
+    "firstMora": "ギ",
+    "lastMora": "プ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 79,
+    "nameJa": "ヤドン",
+    "generation": 1,
+    "firstMora": "ヤ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 80,
+    "nameJa": "ヤドラン",
+    "generation": 1,
+    "firstMora": "ヤ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 81,
+    "nameJa": "コイル",
+    "generation": 1,
+    "firstMora": "コ",
+    "lastMora": "ル",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 82,
+    "nameJa": "レアコイル",
+    "generation": 1,
+    "firstMora": "レ",
+    "lastMora": "ル",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 83,
+    "nameJa": "カモネギ",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ギ",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 84,
+    "nameJa": "ドードー",
+    "generation": 1,
+    "firstMora": "ド",
+    "lastMora": "ド",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 85,
+    "nameJa": "ドードリオ",
+    "generation": 1,
+    "firstMora": "ド",
+    "lastMora": "オ",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 86,
+    "nameJa": "パウワウ",
+    "generation": 1,
+    "firstMora": "パ",
+    "lastMora": "ウ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 87,
+    "nameJa": "ジュゴン",
+    "generation": 1,
+    "firstMora": "ジ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 88,
+    "nameJa": "ベトベター",
+    "generation": 1,
+    "firstMora": "ベ",
+    "lastMora": "タ",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 89,
+    "nameJa": "ベトベトン",
+    "generation": 1,
+    "firstMora": "ベ",
+    "lastMora": "ン",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 90,
+    "nameJa": "シェルダー",
+    "generation": 1,
+    "firstMora": "シ",
+    "lastMora": "ダ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 91,
+    "nameJa": "パルシェン",
+    "generation": 1,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 92,
+    "nameJa": "ゴース",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "ス",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 93,
+    "nameJa": "ゴースト",
+    "generation": 1,
+    "firstMora": "ゴ",
+    "lastMora": "ト",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 94,
+    "nameJa": "ゲンガー",
+    "generation": 1,
+    "firstMora": "ゲ",
+    "lastMora": "ガ",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 95,
+    "nameJa": "イワーク",
+    "generation": 1,
+    "firstMora": "イ",
+    "lastMora": "ク",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 96,
+    "nameJa": "スリープ",
+    "generation": 1,
+    "firstMora": "ス",
+    "lastMora": "プ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 97,
+    "nameJa": "スリーパー",
+    "generation": 1,
+    "firstMora": "ス",
+    "lastMora": "パ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 98,
+    "nameJa": "クラブ",
+    "generation": 1,
+    "firstMora": "ク",
+    "lastMora": "ブ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 99,
+    "nameJa": "キングラー",
+    "generation": 1,
+    "firstMora": "キ",
+    "lastMora": "ラ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 100,
+    "nameJa": "ビリリダマ",
+    "generation": 1,
+    "firstMora": "ビ",
+    "lastMora": "マ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 101,
+    "nameJa": "マルマイン",
+    "generation": 1,
+    "firstMora": "マ",
+    "lastMora": "ン",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 102,
+    "nameJa": "タマタマ",
+    "generation": 1,
+    "firstMora": "タ",
+    "lastMora": "マ",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 103,
+    "nameJa": "ナッシー",
+    "generation": 1,
+    "firstMora": "ナ",
+    "lastMora": "シ",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 104,
+    "nameJa": "カラカラ",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ラ",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 105,
+    "nameJa": "ガラガラ",
+    "generation": 1,
+    "firstMora": "ガ",
+    "lastMora": "ラ",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 106,
+    "nameJa": "サワムラー",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ラ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 107,
+    "nameJa": "エビワラー",
+    "generation": 1,
+    "firstMora": "エ",
+    "lastMora": "ラ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 108,
+    "nameJa": "ベロリンガ",
+    "generation": 1,
+    "firstMora": "ベ",
+    "lastMora": "ガ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 109,
+    "nameJa": "ドガース",
+    "generation": 1,
+    "firstMora": "ド",
+    "lastMora": "ス",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 110,
+    "nameJa": "マタドガス",
+    "generation": 1,
+    "firstMora": "マ",
+    "lastMora": "ス",
+    "types": [
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 111,
+    "nameJa": "サイホーン",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ン",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 112,
+    "nameJa": "サイドン",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ン",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 113,
+    "nameJa": "ラッキー",
+    "generation": 1,
+    "firstMora": "ラ",
+    "lastMora": "キ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 114,
+    "nameJa": "モンジャラ",
+    "generation": 1,
+    "firstMora": "モ",
+    "lastMora": "ラ",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 115,
+    "nameJa": "ガルーラ",
+    "generation": 1,
+    "firstMora": "ガ",
+    "lastMora": "ラ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 116,
+    "nameJa": "タッツー",
+    "generation": 1,
+    "firstMora": "タ",
+    "lastMora": "ツ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 117,
+    "nameJa": "シードラ",
+    "generation": 1,
+    "firstMora": "シ",
+    "lastMora": "ラ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 118,
+    "nameJa": "トサキント",
+    "generation": 1,
+    "firstMora": "ト",
+    "lastMora": "ト",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 119,
+    "nameJa": "アズマオウ",
+    "generation": 1,
+    "firstMora": "ア",
+    "lastMora": "ウ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 120,
+    "nameJa": "ヒトデマン",
+    "generation": 1,
+    "firstMora": "ヒ",
+    "lastMora": "ン",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 121,
+    "nameJa": "スターミー",
+    "generation": 1,
+    "firstMora": "ス",
+    "lastMora": "ミ",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 122,
+    "nameJa": "バリヤード",
+    "generation": 1,
+    "firstMora": "バ",
+    "lastMora": "ド",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 123,
+    "nameJa": "ストライク",
+    "generation": 1,
+    "firstMora": "ス",
+    "lastMora": "ク",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 124,
+    "nameJa": "ルージュラ",
+    "generation": 1,
+    "firstMora": "ル",
+    "lastMora": "ラ",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 125,
+    "nameJa": "エレブー",
+    "generation": 1,
+    "firstMora": "エ",
+    "lastMora": "ブ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 126,
+    "nameJa": "ブーバー",
+    "generation": 1,
+    "firstMora": "ブ",
+    "lastMora": "バ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 127,
+    "nameJa": "カイロス",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ス",
+    "types": [
+      "bug"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 128,
+    "nameJa": "ケンタロス",
+    "generation": 1,
+    "firstMora": "ケ",
+    "lastMora": "ス",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 129,
+    "nameJa": "コイキング",
+    "generation": 1,
+    "firstMora": "コ",
+    "lastMora": "グ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 130,
+    "nameJa": "ギャラドス",
+    "generation": 1,
+    "firstMora": "ギ",
+    "lastMora": "ス",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 131,
+    "nameJa": "ラプラス",
+    "generation": 1,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 132,
+    "nameJa": "メタモン",
+    "generation": 1,
+    "firstMora": "メ",
+    "lastMora": "ン",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 133,
+    "nameJa": "イーブイ",
+    "generation": 1,
+    "firstMora": "イ",
+    "lastMora": "イ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 134,
+    "nameJa": "シャワーズ",
+    "generation": 1,
+    "firstMora": "シ",
+    "lastMora": "ズ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 135,
+    "nameJa": "サンダース",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ス",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 136,
+    "nameJa": "ブースター",
+    "generation": 1,
+    "firstMora": "ブ",
+    "lastMora": "タ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 137,
+    "nameJa": "ポリゴン",
+    "generation": 1,
+    "firstMora": "ポ",
+    "lastMora": "ン",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 138,
+    "nameJa": "オムナイト",
+    "generation": 1,
+    "firstMora": "オ",
+    "lastMora": "ト",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 139,
+    "nameJa": "オムスター",
+    "generation": 1,
+    "firstMora": "オ",
+    "lastMora": "タ",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 140,
+    "nameJa": "カブト",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ト",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 141,
+    "nameJa": "カブトプス",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ス",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 142,
+    "nameJa": "プテラ",
+    "generation": 1,
+    "firstMora": "プ",
+    "lastMora": "ラ",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 143,
+    "nameJa": "カビゴン",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ン",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 144,
+    "nameJa": "フリーザー",
+    "generation": 1,
+    "firstMora": "フ",
+    "lastMora": "ザ",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 145,
+    "nameJa": "サンダー",
+    "generation": 1,
+    "firstMora": "サ",
+    "lastMora": "ダ",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 146,
+    "nameJa": "ファイヤー",
+    "generation": 1,
+    "firstMora": "フ",
+    "lastMora": "ヤ",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 147,
+    "nameJa": "ミニリュウ",
+    "generation": 1,
+    "firstMora": "ミ",
+    "lastMora": "ウ",
+    "types": [
+      "dragon"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 148,
+    "nameJa": "ハクリュー",
+    "generation": 1,
+    "firstMora": "ハ",
+    "lastMora": "ユ",
+    "types": [
+      "dragon"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 149,
+    "nameJa": "カイリュー",
+    "generation": 1,
+    "firstMora": "カ",
+    "lastMora": "ユ",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 150,
+    "nameJa": "ミュウツー",
+    "generation": 1,
+    "firstMora": "ミ",
+    "lastMora": "ツ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 151,
+    "nameJa": "ミュウ",
+    "generation": 1,
+    "firstMora": "ミ",
+    "lastMora": "ウ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 152,
+    "nameJa": "チコリータ",
+    "generation": 2,
+    "firstMora": "チ",
+    "lastMora": "タ",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 153,
+    "nameJa": "ベイリーフ",
+    "generation": 2,
+    "firstMora": "ベ",
+    "lastMora": "フ",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 154,
+    "nameJa": "メガニウム",
+    "generation": 2,
+    "firstMora": "メ",
+    "lastMora": "ム",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 155,
+    "nameJa": "ヒノアラシ",
+    "generation": 2,
+    "firstMora": "ヒ",
+    "lastMora": "シ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 156,
+    "nameJa": "マグマラシ",
+    "generation": 2,
+    "firstMora": "マ",
+    "lastMora": "シ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 157,
+    "nameJa": "バクフーン",
+    "generation": 2,
+    "firstMora": "バ",
+    "lastMora": "ン",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 158,
+    "nameJa": "ワニノコ",
+    "generation": 2,
+    "firstMora": "ワ",
+    "lastMora": "コ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 159,
+    "nameJa": "アリゲイツ",
+    "generation": 2,
+    "firstMora": "ア",
+    "lastMora": "ツ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 160,
+    "nameJa": "オーダイル",
+    "generation": 2,
+    "firstMora": "オ",
+    "lastMora": "ル",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 161,
+    "nameJa": "オタチ",
+    "generation": 2,
+    "firstMora": "オ",
+    "lastMora": "チ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 162,
+    "nameJa": "オオタチ",
+    "generation": 2,
+    "firstMora": "オ",
+    "lastMora": "チ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 163,
+    "nameJa": "ホーホー",
+    "generation": 2,
+    "firstMora": "ホ",
+    "lastMora": "ホ",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 164,
+    "nameJa": "ヨルノズク",
+    "generation": 2,
+    "firstMora": "ヨ",
+    "lastMora": "ク",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 165,
+    "nameJa": "レディバ",
+    "generation": 2,
+    "firstMora": "レ",
+    "lastMora": "バ",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 166,
+    "nameJa": "レディアン",
+    "generation": 2,
+    "firstMora": "レ",
+    "lastMora": "ン",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 167,
+    "nameJa": "イトマル",
+    "generation": 2,
+    "firstMora": "イ",
+    "lastMora": "ル",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 168,
+    "nameJa": "アリアドス",
+    "generation": 2,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 169,
+    "nameJa": "クロバット",
+    "generation": 2,
+    "firstMora": "ク",
+    "lastMora": "ト",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 170,
+    "nameJa": "チョンチー",
+    "generation": 2,
+    "firstMora": "チ",
+    "lastMora": "チ",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 171,
+    "nameJa": "ランターン",
+    "generation": 2,
+    "firstMora": "ラ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 172,
+    "nameJa": "ピチュー",
+    "generation": 2,
+    "firstMora": "ピ",
+    "lastMora": "ユ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 173,
+    "nameJa": "ピィ",
+    "generation": 2,
+    "firstMora": "ピ",
+    "lastMora": "イ",
+    "types": [
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 174,
+    "nameJa": "ププリン",
+    "generation": 2,
+    "firstMora": "プ",
+    "lastMora": "ン",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 175,
+    "nameJa": "トゲピー",
+    "generation": 2,
+    "firstMora": "ト",
+    "lastMora": "ピ",
+    "types": [
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 176,
+    "nameJa": "トゲチック",
+    "generation": 2,
+    "firstMora": "ト",
+    "lastMora": "ク",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 177,
+    "nameJa": "ネイティ",
+    "generation": 2,
+    "firstMora": "ネ",
+    "lastMora": "イ",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 178,
+    "nameJa": "ネイティオ",
+    "generation": 2,
+    "firstMora": "ネ",
+    "lastMora": "オ",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 179,
+    "nameJa": "メリープ",
+    "generation": 2,
+    "firstMora": "メ",
+    "lastMora": "プ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 180,
+    "nameJa": "モココ",
+    "generation": 2,
+    "firstMora": "モ",
+    "lastMora": "コ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 181,
+    "nameJa": "デンリュウ",
+    "generation": 2,
+    "firstMora": "デ",
+    "lastMora": "ウ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 182,
+    "nameJa": "キレイハナ",
+    "generation": 2,
+    "firstMora": "キ",
+    "lastMora": "ナ",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 183,
+    "nameJa": "マリル",
+    "generation": 2,
+    "firstMora": "マ",
+    "lastMora": "ル",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 184,
+    "nameJa": "マリルリ",
+    "generation": 2,
+    "firstMora": "マ",
+    "lastMora": "リ",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 185,
+    "nameJa": "ウソッキー",
+    "generation": 2,
+    "firstMora": "ウ",
+    "lastMora": "キ",
+    "types": [
+      "rock"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 186,
+    "nameJa": "ニョロトノ",
+    "generation": 2,
+    "firstMora": "ニ",
+    "lastMora": "ノ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 187,
+    "nameJa": "ハネッコ",
+    "generation": 2,
+    "firstMora": "ハ",
+    "lastMora": "コ",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 188,
+    "nameJa": "ポポッコ",
+    "generation": 2,
+    "firstMora": "ポ",
+    "lastMora": "コ",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 189,
+    "nameJa": "ワタッコ",
+    "generation": 2,
+    "firstMora": "ワ",
+    "lastMora": "コ",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 190,
+    "nameJa": "エイパム",
+    "generation": 2,
+    "firstMora": "エ",
+    "lastMora": "ム",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 191,
+    "nameJa": "ヒマナッツ",
+    "generation": 2,
+    "firstMora": "ヒ",
+    "lastMora": "ツ",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 192,
+    "nameJa": "キマワリ",
+    "generation": 2,
+    "firstMora": "キ",
+    "lastMora": "リ",
+    "types": [
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 193,
+    "nameJa": "ヤンヤンマ",
+    "generation": 2,
+    "firstMora": "ヤ",
+    "lastMora": "マ",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 194,
+    "nameJa": "ウパー",
+    "generation": 2,
+    "firstMora": "ウ",
+    "lastMora": "パ",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 195,
+    "nameJa": "ヌオー",
+    "generation": 2,
+    "firstMora": "ヌ",
+    "lastMora": "オ",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 196,
+    "nameJa": "エーフィ",
+    "generation": 2,
+    "firstMora": "エ",
+    "lastMora": "イ",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 197,
+    "nameJa": "ブラッキー",
+    "generation": 2,
+    "firstMora": "ブ",
+    "lastMora": "キ",
+    "types": [
+      "dark"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 198,
+    "nameJa": "ヤミカラス",
+    "generation": 2,
+    "firstMora": "ヤ",
+    "lastMora": "ス",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 199,
+    "nameJa": "ヤドキング",
+    "generation": 2,
+    "firstMora": "ヤ",
+    "lastMora": "グ",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 200,
+    "nameJa": "ムウマ",
+    "generation": 2,
+    "firstMora": "ム",
+    "lastMora": "マ",
+    "types": [
+      "ghost"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 201,
+    "nameJa": "アンノーン",
+    "generation": 2,
+    "firstMora": "ア",
+    "lastMora": "ン",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 202,
+    "nameJa": "ソーナンス",
+    "generation": 2,
+    "firstMora": "ソ",
+    "lastMora": "ス",
+    "types": [
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 203,
+    "nameJa": "キリンリキ",
+    "generation": 2,
+    "firstMora": "キ",
+    "lastMora": "キ",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 204,
+    "nameJa": "クヌギダマ",
+    "generation": 2,
+    "firstMora": "ク",
+    "lastMora": "マ",
+    "types": [
+      "bug"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 205,
+    "nameJa": "フォレトス",
+    "generation": 2,
+    "firstMora": "フ",
+    "lastMora": "ス",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 206,
+    "nameJa": "ノコッチ",
+    "generation": 2,
+    "firstMora": "ノ",
+    "lastMora": "チ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 207,
+    "nameJa": "グライガー",
+    "generation": 2,
+    "firstMora": "グ",
+    "lastMora": "ガ",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 208,
+    "nameJa": "ハガネール",
+    "generation": 2,
+    "firstMora": "ハ",
+    "lastMora": "ル",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 209,
+    "nameJa": "ブルー",
+    "generation": 2,
+    "firstMora": "ブ",
+    "lastMora": "ル",
+    "types": [
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 210,
+    "nameJa": "グランブル",
+    "generation": 2,
+    "firstMora": "グ",
+    "lastMora": "ル",
+    "types": [
+      "fairy"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 211,
+    "nameJa": "ハリーセン",
+    "generation": 2,
+    "firstMora": "ハ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 212,
+    "nameJa": "ハッサム",
+    "generation": 2,
+    "firstMora": "ハ",
+    "lastMora": "ム",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 213,
+    "nameJa": "ツボツボ",
+    "generation": 2,
+    "firstMora": "ツ",
+    "lastMora": "ボ",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 214,
+    "nameJa": "ヘラクロス",
+    "generation": 2,
+    "firstMora": "ヘ",
+    "lastMora": "ス",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 215,
+    "nameJa": "ニューラ",
+    "generation": 2,
+    "firstMora": "ニ",
+    "lastMora": "ラ",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 216,
+    "nameJa": "ヒメグマ",
+    "generation": 2,
+    "firstMora": "ヒ",
+    "lastMora": "マ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 217,
+    "nameJa": "リングマ",
+    "generation": 2,
+    "firstMora": "リ",
+    "lastMora": "マ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 218,
+    "nameJa": "マグマッグ",
+    "generation": 2,
+    "firstMora": "マ",
+    "lastMora": "グ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 219,
+    "nameJa": "マグカルゴ",
+    "generation": 2,
+    "firstMora": "マ",
+    "lastMora": "ゴ",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 220,
+    "nameJa": "ウリムー",
+    "generation": 2,
+    "firstMora": "ウ",
+    "lastMora": "ム",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 221,
+    "nameJa": "イノムー",
+    "generation": 2,
+    "firstMora": "イ",
+    "lastMora": "ム",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 222,
+    "nameJa": "サニーゴ",
+    "generation": 2,
+    "firstMora": "サ",
+    "lastMora": "ゴ",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 223,
+    "nameJa": "テッポウオ",
+    "generation": 2,
+    "firstMora": "テ",
+    "lastMora": "オ",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 224,
+    "nameJa": "オクタン",
+    "generation": 2,
+    "firstMora": "オ",
+    "lastMora": "ン",
+    "types": [
+      "water"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 225,
+    "nameJa": "デリバード",
+    "generation": 2,
+    "firstMora": "デ",
+    "lastMora": "ド",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 226,
+    "nameJa": "マンタイン",
+    "generation": 2,
+    "firstMora": "マ",
+    "lastMora": "ン",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 227,
+    "nameJa": "エアームド",
+    "generation": 2,
+    "firstMora": "エ",
+    "lastMora": "ド",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 228,
+    "nameJa": "デルビル",
+    "generation": 2,
+    "firstMora": "デ",
+    "lastMora": "ル",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 229,
+    "nameJa": "ヘルガー",
+    "generation": 2,
+    "firstMora": "ヘ",
+    "lastMora": "ガ",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 230,
+    "nameJa": "キングドラ",
+    "generation": 2,
+    "firstMora": "キ",
+    "lastMora": "ラ",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 231,
+    "nameJa": "ゴマゾウ",
+    "generation": 2,
+    "firstMora": "ゴ",
+    "lastMora": "ウ",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 232,
+    "nameJa": "ドンファン",
+    "generation": 2,
+    "firstMora": "ド",
+    "lastMora": "ン",
+    "types": [
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 233,
+    "nameJa": "ポリゴン２",
+    "generation": 2,
+    "firstMora": "ポ",
+    "lastMora": "２",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 234,
+    "nameJa": "オドシシ",
+    "generation": 2,
+    "firstMora": "オ",
+    "lastMora": "シ",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 235,
+    "nameJa": "ドーブル",
+    "generation": 2,
+    "firstMora": "ド",
+    "lastMora": "ル",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 236,
+    "nameJa": "バルキー",
+    "generation": 2,
+    "firstMora": "バ",
+    "lastMora": "キ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 237,
+    "nameJa": "カポエラー",
+    "generation": 2,
+    "firstMora": "カ",
+    "lastMora": "ラ",
+    "types": [
+      "fighting"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 238,
+    "nameJa": "ムチュール",
+    "generation": 2,
+    "firstMora": "ム",
+    "lastMora": "ル",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 239,
+    "nameJa": "エレキッド",
+    "generation": 2,
+    "firstMora": "エ",
+    "lastMora": "ド",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 240,
+    "nameJa": "ブビィ",
+    "generation": 2,
+    "firstMora": "ブ",
+    "lastMora": "イ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 241,
+    "nameJa": "ミルタンク",
+    "generation": 2,
+    "firstMora": "ミ",
+    "lastMora": "ク",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 242,
+    "nameJa": "ハピナス",
+    "generation": 2,
+    "firstMora": "ハ",
+    "lastMora": "ス",
+    "types": [
+      "normal"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 243,
+    "nameJa": "ライコウ",
+    "generation": 2,
+    "firstMora": "ラ",
+    "lastMora": "ウ",
+    "types": [
+      "electric"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 244,
+    "nameJa": "エンテイ",
+    "generation": 2,
+    "firstMora": "エ",
+    "lastMora": "イ",
+    "types": [
+      "fire"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 245,
+    "nameJa": "スイクン",
+    "generation": 2,
+    "firstMora": "ス",
+    "lastMora": "ン",
+    "types": [
+      "water"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 246,
+    "nameJa": "ヨーギラス",
+    "generation": 2,
+    "firstMora": "ヨ",
+    "lastMora": "ス",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 247,
+    "nameJa": "サナギラス",
+    "generation": 2,
+    "firstMora": "サ",
+    "lastMora": "ス",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 248,
+    "nameJa": "バンギラス",
+    "generation": 2,
+    "firstMora": "バ",
+    "lastMora": "ス",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 249,
+    "nameJa": "ルギア",
+    "generation": 2,
+    "firstMora": "ル",
+    "lastMora": "ア",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 250,
+    "nameJa": "ホウオウ",
+    "generation": 2,
+    "firstMora": "ホ",
+    "lastMora": "ウ",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 251,
+    "nameJa": "セレビィ",
+    "generation": 2,
+    "firstMora": "セ",
+    "lastMora": "イ",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 252,
+    "nameJa": "キモリ",
+    "generation": 3,
+    "firstMora": "キ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 253,
+    "nameJa": "ジュプトル",
+    "generation": 3,
+    "firstMora": "ジ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 254,
+    "nameJa": "ジュカイン",
+    "generation": 3,
+    "firstMora": "ジ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 255,
+    "nameJa": "アチャモ",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 256,
+    "nameJa": "ワカシャモ",
+    "generation": 3,
+    "firstMora": "ワ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 257,
+    "nameJa": "バシャーモ",
+    "generation": 3,
+    "firstMora": "バ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 258,
+    "nameJa": "ミズゴロウ",
+    "generation": 3,
+    "firstMora": "ミ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 259,
+    "nameJa": "ヌマクロー",
+    "generation": 3,
+    "firstMora": "ヌ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 260,
+    "nameJa": "ラグラージ",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "ジ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 261,
+    "nameJa": "ポチエナ",
+    "generation": 3,
+    "firstMora": "ポ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 262,
+    "nameJa": "グラエナ",
+    "generation": 3,
+    "firstMora": "グ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 263,
+    "nameJa": "ジグザグマ",
+    "generation": 3,
+    "firstMora": "ジ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 264,
+    "nameJa": "マッスグマ",
+    "generation": 3,
+    "firstMora": "マ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 265,
+    "nameJa": "ケムッソ",
+    "generation": 3,
+    "firstMora": "ケ",
+    "lastMora": "ソ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 266,
+    "nameJa": "カラサリス",
+    "generation": 3,
+    "firstMora": "カ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 267,
+    "nameJa": "アゲハント",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 268,
+    "nameJa": "マユルド",
+    "generation": 3,
+    "firstMora": "マ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 269,
+    "nameJa": "ドクケイル",
+    "generation": 3,
+    "firstMora": "ド",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 270,
+    "nameJa": "ハスボー",
+    "generation": 3,
+    "firstMora": "ハ",
+    "lastMora": "ボ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 271,
+    "nameJa": "ハスブレロ",
+    "generation": 3,
+    "firstMora": "ハ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 272,
+    "nameJa": "ルンパッパ",
+    "generation": 3,
+    "firstMora": "ル",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 273,
+    "nameJa": "タネボー",
+    "generation": 3,
+    "firstMora": "タ",
+    "lastMora": "ボ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 274,
+    "nameJa": "コノハナ",
+    "generation": 3,
+    "firstMora": "コ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 275,
+    "nameJa": "ダーテング",
+    "generation": 3,
+    "firstMora": "ダ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 276,
+    "nameJa": "スバメ",
+    "generation": 3,
+    "firstMora": "ス",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 277,
+    "nameJa": "オオスバメ",
+    "generation": 3,
+    "firstMora": "オ",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 278,
+    "nameJa": "キャモメ",
+    "generation": 3,
+    "firstMora": "キ",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 279,
+    "nameJa": "ペリッパー",
+    "generation": 3,
+    "firstMora": "ペ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 280,
+    "nameJa": "ラルトス",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 281,
+    "nameJa": "キルリア",
+    "generation": 3,
+    "firstMora": "キ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 282,
+    "nameJa": "サーナイト",
+    "generation": 3,
+    "firstMora": "サ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 283,
+    "nameJa": "アメタマ",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 284,
+    "nameJa": "アメモース",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 285,
+    "nameJa": "キノココ",
+    "generation": 3,
+    "firstMora": "キ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 286,
+    "nameJa": "キノガッサ",
+    "generation": 3,
+    "firstMora": "キ",
+    "lastMora": "サ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 287,
+    "nameJa": "ナマケロ",
+    "generation": 3,
+    "firstMora": "ナ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 288,
+    "nameJa": "ヤルキモノ",
+    "generation": 3,
+    "firstMora": "ヤ",
+    "lastMora": "ノ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 289,
+    "nameJa": "ケッキング",
+    "generation": 3,
+    "firstMora": "ケ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 290,
+    "nameJa": "ツチニン",
+    "generation": 3,
+    "firstMora": "ツ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 291,
+    "nameJa": "テッカニン",
+    "generation": 3,
+    "firstMora": "テ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 292,
+    "nameJa": "ヌケニン",
+    "generation": 3,
+    "firstMora": "ヌ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 293,
+    "nameJa": "ゴニョニョ",
+    "generation": 3,
+    "firstMora": "ゴ",
+    "lastMora": "ヨ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 294,
+    "nameJa": "ドゴーム",
+    "generation": 3,
+    "firstMora": "ド",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 295,
+    "nameJa": "バクオング",
+    "generation": 3,
+    "firstMora": "バ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 296,
+    "nameJa": "マクノシタ",
+    "generation": 3,
+    "firstMora": "マ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 297,
+    "nameJa": "ハリテヤマ",
+    "generation": 3,
+    "firstMora": "ハ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 298,
+    "nameJa": "ルリリ",
+    "generation": 3,
+    "firstMora": "ル",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 299,
+    "nameJa": "ノズパス",
+    "generation": 3,
+    "firstMora": "ノ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 300,
+    "nameJa": "エネコ",
+    "generation": 3,
+    "firstMora": "エ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 301,
+    "nameJa": "エネコロロ",
+    "generation": 3,
+    "firstMora": "エ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 302,
+    "nameJa": "ヤミラミ",
+    "generation": 3,
+    "firstMora": "ヤ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 303,
+    "nameJa": "クチート",
+    "generation": 3,
+    "firstMora": "ク",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 304,
+    "nameJa": "ココドラ",
+    "generation": 3,
+    "firstMora": "コ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 305,
+    "nameJa": "コドラ",
+    "generation": 3,
+    "firstMora": "コ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 306,
+    "nameJa": "ボスゴドラ",
+    "generation": 3,
+    "firstMora": "ボ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 307,
+    "nameJa": "アサナン",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 308,
+    "nameJa": "チャーレム",
+    "generation": 3,
+    "firstMora": "チ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 309,
+    "nameJa": "ラクライ",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 310,
+    "nameJa": "ライボルト",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 311,
+    "nameJa": "プラスル",
+    "generation": 3,
+    "firstMora": "プ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 312,
+    "nameJa": "マイナン",
+    "generation": 3,
+    "firstMora": "マ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 313,
+    "nameJa": "バルビート",
+    "generation": 3,
+    "firstMora": "バ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 314,
+    "nameJa": "イルミーゼ",
+    "generation": 3,
+    "firstMora": "イ",
+    "lastMora": "ゼ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 315,
+    "nameJa": "ロゼリア",
+    "generation": 3,
+    "firstMora": "ロ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 316,
+    "nameJa": "ゴクリン",
+    "generation": 3,
+    "firstMora": "ゴ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 317,
+    "nameJa": "マルノーム",
+    "generation": 3,
+    "firstMora": "マ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 318,
+    "nameJa": "キバニア",
+    "generation": 3,
+    "firstMora": "キ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 319,
+    "nameJa": "サメハダー",
+    "generation": 3,
+    "firstMora": "サ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 320,
+    "nameJa": "ホエルコ",
+    "generation": 3,
+    "firstMora": "ホ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 321,
+    "nameJa": "ホエルオー",
+    "generation": 3,
+    "firstMora": "ホ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 322,
+    "nameJa": "ドンメル",
+    "generation": 3,
+    "firstMora": "ド",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 323,
+    "nameJa": "バクーダ",
+    "generation": 3,
+    "firstMora": "バ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 324,
+    "nameJa": "コータス",
+    "generation": 3,
+    "firstMora": "コ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 325,
+    "nameJa": "バネブー",
+    "generation": 3,
+    "firstMora": "バ",
+    "lastMora": "ブ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 326,
+    "nameJa": "ブーピッグ",
+    "generation": 3,
+    "firstMora": "ブ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 327,
+    "nameJa": "パッチール",
+    "generation": 3,
+    "firstMora": "パ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 328,
+    "nameJa": "ナックラー",
+    "generation": 3,
+    "firstMora": "ナ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 329,
+    "nameJa": "ビブラーバ",
+    "generation": 3,
+    "firstMora": "ビ",
+    "lastMora": "バ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 330,
+    "nameJa": "フライゴン",
+    "generation": 3,
+    "firstMora": "フ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 331,
+    "nameJa": "サボネア",
+    "generation": 3,
+    "firstMora": "サ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 332,
+    "nameJa": "ノクタス",
+    "generation": 3,
+    "firstMora": "ノ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 333,
+    "nameJa": "チルット",
+    "generation": 3,
+    "firstMora": "チ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 334,
+    "nameJa": "チルタリス",
+    "generation": 3,
+    "firstMora": "チ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 335,
+    "nameJa": "ザングース",
+    "generation": 3,
+    "firstMora": "ザ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 336,
+    "nameJa": "ハブネーク",
+    "generation": 3,
+    "firstMora": "ハ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 337,
+    "nameJa": "ルナトーン",
+    "generation": 3,
+    "firstMora": "ル",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 338,
+    "nameJa": "ソルロック",
+    "generation": 3,
+    "firstMora": "ソ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 339,
+    "nameJa": "ドジョッチ",
+    "generation": 3,
+    "firstMora": "ド",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 340,
+    "nameJa": "ナマズン",
+    "generation": 3,
+    "firstMora": "ナ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 341,
+    "nameJa": "ヘイガニ",
+    "generation": 3,
+    "firstMora": "ヘ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 342,
+    "nameJa": "シザリガー",
+    "generation": 3,
+    "firstMora": "シ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 343,
+    "nameJa": "ヤジロン",
+    "generation": 3,
+    "firstMora": "ヤ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 344,
+    "nameJa": "ネンドール",
+    "generation": 3,
+    "firstMora": "ネ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 345,
+    "nameJa": "リリーラ",
+    "generation": 3,
+    "firstMora": "リ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 346,
+    "nameJa": "ユレイドル",
+    "generation": 3,
+    "firstMora": "ユ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 347,
+    "nameJa": "アノプス",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 348,
+    "nameJa": "アーマルド",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 349,
+    "nameJa": "ヒンバス",
+    "generation": 3,
+    "firstMora": "ヒ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 350,
+    "nameJa": "ミロカロス",
+    "generation": 3,
+    "firstMora": "ミ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 351,
+    "nameJa": "ポワルン",
+    "generation": 3,
+    "firstMora": "ポ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 352,
+    "nameJa": "カクレオン",
+    "generation": 3,
+    "firstMora": "カ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 353,
+    "nameJa": "カゲボウズ",
+    "generation": 3,
+    "firstMora": "カ",
+    "lastMora": "ズ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 354,
+    "nameJa": "ジュペッタ",
+    "generation": 3,
+    "firstMora": "ジ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 355,
+    "nameJa": "ヨマワル",
+    "generation": 3,
+    "firstMora": "ヨ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 356,
+    "nameJa": "サマヨール",
+    "generation": 3,
+    "firstMora": "サ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 357,
+    "nameJa": "トロピウス",
+    "generation": 3,
+    "firstMora": "ト",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 358,
+    "nameJa": "チリーン",
+    "generation": 3,
+    "firstMora": "チ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 359,
+    "nameJa": "アブソル",
+    "generation": 3,
+    "firstMora": "ア",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 360,
+    "nameJa": "ソーナノ",
+    "generation": 3,
+    "firstMora": "ソ",
+    "lastMora": "ノ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 361,
+    "nameJa": "ユキワラシ",
+    "generation": 3,
+    "firstMora": "ユ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 362,
+    "nameJa": "オニゴーリ",
+    "generation": 3,
+    "firstMora": "オ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 363,
+    "nameJa": "タマザラシ",
+    "generation": 3,
+    "firstMora": "タ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 364,
+    "nameJa": "トドグラー",
+    "generation": 3,
+    "firstMora": "ト",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 365,
+    "nameJa": "トドゼルガ",
+    "generation": 3,
+    "firstMora": "ト",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 366,
+    "nameJa": "パールル",
+    "generation": 3,
+    "firstMora": "パ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 367,
+    "nameJa": "ハンテール",
+    "generation": 3,
+    "firstMora": "ハ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 368,
+    "nameJa": "サクラビス",
+    "generation": 3,
+    "firstMora": "サ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 369,
+    "nameJa": "ジーランス",
+    "generation": 3,
+    "firstMora": "ジ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 370,
+    "nameJa": "ラブカス",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 371,
+    "nameJa": "タツベイ",
+    "generation": 3,
+    "firstMora": "タ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 372,
+    "nameJa": "コモルー",
+    "generation": 3,
+    "firstMora": "コ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 373,
+    "nameJa": "ボーマンダ",
+    "generation": 3,
+    "firstMora": "ボ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 374,
+    "nameJa": "ダンバル",
+    "generation": 3,
+    "firstMora": "ダ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 375,
+    "nameJa": "メタング",
+    "generation": 3,
+    "firstMora": "メ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 376,
+    "nameJa": "メタグロス",
+    "generation": 3,
+    "firstMora": "メ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 377,
+    "nameJa": "レジロック",
+    "generation": 3,
+    "firstMora": "レ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 378,
+    "nameJa": "レジアイス",
+    "generation": 3,
+    "firstMora": "レ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 379,
+    "nameJa": "レジスチル",
+    "generation": 3,
+    "firstMora": "レ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 380,
+    "nameJa": "ラティアス",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 381,
+    "nameJa": "ラティオス",
+    "generation": 3,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 382,
+    "nameJa": "カイオーガ",
+    "generation": 3,
+    "firstMora": "カ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 383,
+    "nameJa": "グラードン",
+    "generation": 3,
+    "firstMora": "グ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 384,
+    "nameJa": "レックウザ",
+    "generation": 3,
+    "firstMora": "レ",
+    "lastMora": "ザ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 385,
+    "nameJa": "ジラーチ",
+    "generation": 3,
+    "firstMora": "ジ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 386,
+    "nameJa": "デオキシス",
+    "generation": 3,
+    "firstMora": "デ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 387,
+    "nameJa": "ナエトル",
+    "generation": 4,
+    "firstMora": "ナ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 388,
+    "nameJa": "ハヤシガメ",
+    "generation": 4,
+    "firstMora": "ハ",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 389,
+    "nameJa": "ドダイトス",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 390,
+    "nameJa": "ヒコザル",
+    "generation": 4,
+    "firstMora": "ヒ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 391,
+    "nameJa": "モウカザル",
+    "generation": 4,
+    "firstMora": "モ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 392,
+    "nameJa": "ゴウカザル",
+    "generation": 4,
+    "firstMora": "ゴ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 393,
+    "nameJa": "ポッチャマ",
+    "generation": 4,
+    "firstMora": "ポ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 394,
+    "nameJa": "ポッタイシ",
+    "generation": 4,
+    "firstMora": "ポ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 395,
+    "nameJa": "エンペルト",
+    "generation": 4,
+    "firstMora": "エ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 396,
+    "nameJa": "ムックル",
+    "generation": 4,
+    "firstMora": "ム",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 397,
+    "nameJa": "ムクバード",
+    "generation": 4,
+    "firstMora": "ム",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 398,
+    "nameJa": "ムクホーク",
+    "generation": 4,
+    "firstMora": "ム",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 399,
+    "nameJa": "ビッパ",
+    "generation": 4,
+    "firstMora": "ビ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 400,
+    "nameJa": "ビーダル",
+    "generation": 4,
+    "firstMora": "ビ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 401,
+    "nameJa": "コロボーシ",
+    "generation": 4,
+    "firstMora": "コ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 402,
+    "nameJa": "コロトック",
+    "generation": 4,
+    "firstMora": "コ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 403,
+    "nameJa": "コリンク",
+    "generation": 4,
+    "firstMora": "コ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 404,
+    "nameJa": "ルクシオ",
+    "generation": 4,
+    "firstMora": "ル",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 405,
+    "nameJa": "レントラー",
+    "generation": 4,
+    "firstMora": "レ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 406,
+    "nameJa": "スボミー",
+    "generation": 4,
+    "firstMora": "ス",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 407,
+    "nameJa": "ロズレイド",
+    "generation": 4,
+    "firstMora": "ロ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 408,
+    "nameJa": "ズガイドス",
+    "generation": 4,
+    "firstMora": "ズ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 409,
+    "nameJa": "ラムパルド",
+    "generation": 4,
+    "firstMora": "ラ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 410,
+    "nameJa": "タテトプス",
+    "generation": 4,
+    "firstMora": "タ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 411,
+    "nameJa": "トリデプス",
+    "generation": 4,
+    "firstMora": "ト",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 412,
+    "nameJa": "ミノムッチ",
+    "generation": 4,
+    "firstMora": "ミ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 413,
+    "nameJa": "ミノマダム",
+    "generation": 4,
+    "firstMora": "ミ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 414,
+    "nameJa": "ガーメイル",
+    "generation": 4,
+    "firstMora": "ガ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 415,
+    "nameJa": "ミツハニー",
+    "generation": 4,
+    "firstMora": "ミ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 416,
+    "nameJa": "ビークイン",
+    "generation": 4,
+    "firstMora": "ビ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 417,
+    "nameJa": "パチリス",
+    "generation": 4,
+    "firstMora": "パ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 418,
+    "nameJa": "ブイゼル",
+    "generation": 4,
+    "firstMora": "ブ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 419,
+    "nameJa": "フローゼル",
+    "generation": 4,
+    "firstMora": "フ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 420,
+    "nameJa": "チェリンボ",
+    "generation": 4,
+    "firstMora": "チ",
+    "lastMora": "ボ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 421,
+    "nameJa": "チェリム",
+    "generation": 4,
+    "firstMora": "チ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 422,
+    "nameJa": "カラナクシ",
+    "generation": 4,
+    "firstMora": "カ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 423,
+    "nameJa": "トリトドン",
+    "generation": 4,
+    "firstMora": "ト",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 424,
+    "nameJa": "エテボース",
+    "generation": 4,
+    "firstMora": "エ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 425,
+    "nameJa": "フワンテ",
+    "generation": 4,
+    "firstMora": "フ",
+    "lastMora": "テ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 426,
+    "nameJa": "フワライド",
+    "generation": 4,
+    "firstMora": "フ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 427,
+    "nameJa": "ミミロル",
+    "generation": 4,
+    "firstMora": "ミ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 428,
+    "nameJa": "ミミロップ",
+    "generation": 4,
+    "firstMora": "ミ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 429,
+    "nameJa": "ムウマージ",
+    "generation": 4,
+    "firstMora": "ム",
+    "lastMora": "ジ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 430,
+    "nameJa": "ドンカラス",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 431,
+    "nameJa": "ニャルマー",
+    "generation": 4,
+    "firstMora": "ニ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 432,
+    "nameJa": "ブニャット",
+    "generation": 4,
+    "firstMora": "ブ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 433,
+    "nameJa": "リーシャン",
+    "generation": 4,
+    "firstMora": "リ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 434,
+    "nameJa": "スカンプー",
+    "generation": 4,
+    "firstMora": "ス",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 435,
+    "nameJa": "スカタンク",
+    "generation": 4,
+    "firstMora": "ス",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 436,
+    "nameJa": "ドーミラー",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 437,
+    "nameJa": "ドータクン",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 438,
+    "nameJa": "ウソハチ",
+    "generation": 4,
+    "firstMora": "ウ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 439,
+    "nameJa": "マネネ",
+    "generation": 4,
+    "firstMora": "マ",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 440,
+    "nameJa": "ピンプク",
+    "generation": 4,
+    "firstMora": "ピ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 441,
+    "nameJa": "ペラップ",
+    "generation": 4,
+    "firstMora": "ペ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 442,
+    "nameJa": "ミカルゲ",
+    "generation": 4,
+    "firstMora": "ミ",
+    "lastMora": "ゲ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 443,
+    "nameJa": "フカマル",
+    "generation": 4,
+    "firstMora": "フ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 444,
+    "nameJa": "ガバイト",
+    "generation": 4,
+    "firstMora": "ガ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 445,
+    "nameJa": "ガブリアス",
+    "generation": 4,
+    "firstMora": "ガ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 446,
+    "nameJa": "ゴンベ",
+    "generation": 4,
+    "firstMora": "ゴ",
+    "lastMora": "ベ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 447,
+    "nameJa": "リオル",
+    "generation": 4,
+    "firstMora": "リ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 448,
+    "nameJa": "ルカリオ",
+    "generation": 4,
+    "firstMora": "ル",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 449,
+    "nameJa": "ヒポポタス",
+    "generation": 4,
+    "firstMora": "ヒ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 450,
+    "nameJa": "カバルドン",
+    "generation": 4,
+    "firstMora": "カ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 451,
+    "nameJa": "スコルピ",
+    "generation": 4,
+    "firstMora": "ス",
+    "lastMora": "ピ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 452,
+    "nameJa": "ドラピオン",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 453,
+    "nameJa": "グレッグル",
+    "generation": 4,
+    "firstMora": "グ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 454,
+    "nameJa": "ドクロッグ",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 455,
+    "nameJa": "マスキッパ",
+    "generation": 4,
+    "firstMora": "マ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 456,
+    "nameJa": "ケイコウオ",
+    "generation": 4,
+    "firstMora": "ケ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 457,
+    "nameJa": "ネオラント",
+    "generation": 4,
+    "firstMora": "ネ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 458,
+    "nameJa": "タマンタ",
+    "generation": 4,
+    "firstMora": "タ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 459,
+    "nameJa": "ユキカブリ",
+    "generation": 4,
+    "firstMora": "ユ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 460,
+    "nameJa": "ユキノオー",
+    "generation": 4,
+    "firstMora": "ユ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 461,
+    "nameJa": "マニューラ",
+    "generation": 4,
+    "firstMora": "マ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 462,
+    "nameJa": "ジバコイル",
+    "generation": 4,
+    "firstMora": "ジ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 463,
+    "nameJa": "ベロベルト",
+    "generation": 4,
+    "firstMora": "ベ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 464,
+    "nameJa": "ドサイドン",
+    "generation": 4,
+    "firstMora": "ド",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 465,
+    "nameJa": "モジャンボ",
+    "generation": 4,
+    "firstMora": "モ",
+    "lastMora": "ボ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 466,
+    "nameJa": "エレキブル",
+    "generation": 4,
+    "firstMora": "エ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 467,
+    "nameJa": "ブーバーン",
+    "generation": 4,
+    "firstMora": "ブ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 468,
+    "nameJa": "トゲキッス",
+    "generation": 4,
+    "firstMora": "ト",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 469,
+    "nameJa": "メガヤンマ",
+    "generation": 4,
+    "firstMora": "メ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 470,
+    "nameJa": "リーフィア",
+    "generation": 4,
+    "firstMora": "リ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 471,
+    "nameJa": "グレイシア",
+    "generation": 4,
+    "firstMora": "グ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 472,
+    "nameJa": "グライオン",
+    "generation": 4,
+    "firstMora": "グ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 473,
+    "nameJa": "マンムー",
+    "generation": 4,
+    "firstMora": "マ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 474,
+    "nameJa": "ポリゴンＺ",
+    "generation": 4,
+    "firstMora": "ポ",
+    "lastMora": "Ｚ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 475,
+    "nameJa": "エルレイド",
+    "generation": 4,
+    "firstMora": "エ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 476,
+    "nameJa": "ダイノーズ",
+    "generation": 4,
+    "firstMora": "ダ",
+    "lastMora": "ズ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 477,
+    "nameJa": "ヨノワール",
+    "generation": 4,
+    "firstMora": "ヨ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 478,
+    "nameJa": "ユキメノコ",
+    "generation": 4,
+    "firstMora": "ユ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 479,
+    "nameJa": "ロトム",
+    "generation": 4,
+    "firstMora": "ロ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 480,
+    "nameJa": "ユクシー",
+    "generation": 4,
+    "firstMora": "ユ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 481,
+    "nameJa": "エムリット",
+    "generation": 4,
+    "firstMora": "エ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 482,
+    "nameJa": "アグノム",
+    "generation": 4,
+    "firstMora": "ア",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 483,
+    "nameJa": "ディアルガ",
+    "generation": 4,
+    "firstMora": "デ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 484,
+    "nameJa": "パルキア",
+    "generation": 4,
+    "firstMora": "パ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 485,
+    "nameJa": "ヒードラン",
+    "generation": 4,
+    "firstMora": "ヒ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 486,
+    "nameJa": "レジギガス",
+    "generation": 4,
+    "firstMora": "レ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 487,
+    "nameJa": "ギラティナ",
+    "generation": 4,
+    "firstMora": "ギ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 488,
+    "nameJa": "クレセリア",
+    "generation": 4,
+    "firstMora": "ク",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 489,
+    "nameJa": "フィオネ",
+    "generation": 4,
+    "firstMora": "フ",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 490,
+    "nameJa": "マナフィ",
+    "generation": 4,
+    "firstMora": "マ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 491,
+    "nameJa": "ダークライ",
+    "generation": 4,
+    "firstMora": "ダ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 492,
+    "nameJa": "シェイミ",
+    "generation": 4,
+    "firstMora": "シ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 493,
+    "nameJa": "アルセウス",
+    "generation": 4,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 494,
+    "nameJa": "ビクティニ",
+    "generation": 5,
+    "firstMora": "ビ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 495,
+    "nameJa": "ツタージャ",
+    "generation": 5,
+    "firstMora": "ツ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 496,
+    "nameJa": "ジャノビー",
+    "generation": 5,
+    "firstMora": "ジ",
+    "lastMora": "ビ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 497,
+    "nameJa": "ジャローダ",
+    "generation": 5,
+    "firstMora": "ジ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 498,
+    "nameJa": "ポカブ",
+    "generation": 5,
+    "firstMora": "ポ",
+    "lastMora": "ブ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 499,
+    "nameJa": "チャオブー",
+    "generation": 5,
+    "firstMora": "チ",
+    "lastMora": "ブ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 500,
+    "nameJa": "エンブオー",
+    "generation": 5,
+    "firstMora": "エ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 501,
+    "nameJa": "ミジュマル",
+    "generation": 5,
+    "firstMora": "ミ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 502,
+    "nameJa": "フタチマル",
+    "generation": 5,
+    "firstMora": "フ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 503,
+    "nameJa": "ダイケンキ",
+    "generation": 5,
+    "firstMora": "ダ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 504,
+    "nameJa": "ミネズミ",
+    "generation": 5,
+    "firstMora": "ミ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 505,
+    "nameJa": "ミルホッグ",
+    "generation": 5,
+    "firstMora": "ミ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 506,
+    "nameJa": "ヨーテリー",
+    "generation": 5,
+    "firstMora": "ヨ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 507,
+    "nameJa": "ハーデリア",
+    "generation": 5,
+    "firstMora": "ハ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 508,
+    "nameJa": "ムーランド",
+    "generation": 5,
+    "firstMora": "ム",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 509,
+    "nameJa": "チョロネコ",
+    "generation": 5,
+    "firstMora": "チ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 510,
+    "nameJa": "レパルダス",
+    "generation": 5,
+    "firstMora": "レ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 511,
+    "nameJa": "ヤナップ",
+    "generation": 5,
+    "firstMora": "ヤ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 512,
+    "nameJa": "ヤナッキー",
+    "generation": 5,
+    "firstMora": "ヤ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 513,
+    "nameJa": "バオップ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 514,
+    "nameJa": "バオッキー",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 515,
+    "nameJa": "ヒヤップ",
+    "generation": 5,
+    "firstMora": "ヒ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 516,
+    "nameJa": "ヒヤッキー",
+    "generation": 5,
+    "firstMora": "ヒ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 517,
+    "nameJa": "ムンナ",
+    "generation": 5,
+    "firstMora": "ム",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 518,
+    "nameJa": "ムシャーナ",
+    "generation": 5,
+    "firstMora": "ム",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 519,
+    "nameJa": "マメパト",
+    "generation": 5,
+    "firstMora": "マ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 520,
+    "nameJa": "ハトーボー",
+    "generation": 5,
+    "firstMora": "ハ",
+    "lastMora": "ボ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 521,
+    "nameJa": "ケンホロウ",
+    "generation": 5,
+    "firstMora": "ケ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 522,
+    "nameJa": "シママ",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 523,
+    "nameJa": "ゼブライカ",
+    "generation": 5,
+    "firstMora": "ゼ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 524,
+    "nameJa": "ダンゴロ",
+    "generation": 5,
+    "firstMora": "ダ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 525,
+    "nameJa": "ガントル",
+    "generation": 5,
+    "firstMora": "ガ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 526,
+    "nameJa": "ギガイアス",
+    "generation": 5,
+    "firstMora": "ギ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 527,
+    "nameJa": "コロモリ",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 528,
+    "nameJa": "ココロモリ",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 529,
+    "nameJa": "モグリュー",
+    "generation": 5,
+    "firstMora": "モ",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 530,
+    "nameJa": "ドリュウズ",
+    "generation": 5,
+    "firstMora": "ド",
+    "lastMora": "ズ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 531,
+    "nameJa": "タブンネ",
+    "generation": 5,
+    "firstMora": "タ",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 532,
+    "nameJa": "ドッコラー",
+    "generation": 5,
+    "firstMora": "ド",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 533,
+    "nameJa": "ドテッコツ",
+    "generation": 5,
+    "firstMora": "ド",
+    "lastMora": "ツ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 534,
+    "nameJa": "ローブシン",
+    "generation": 5,
+    "firstMora": "ロ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 535,
+    "nameJa": "オタマロ",
+    "generation": 5,
+    "firstMora": "オ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 536,
+    "nameJa": "ガマガル",
+    "generation": 5,
+    "firstMora": "ガ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 537,
+    "nameJa": "ガマゲロゲ",
+    "generation": 5,
+    "firstMora": "ガ",
+    "lastMora": "ゲ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 538,
+    "nameJa": "ナゲキ",
+    "generation": 5,
+    "firstMora": "ナ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 539,
+    "nameJa": "ダゲキ",
+    "generation": 5,
+    "firstMora": "ダ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 540,
+    "nameJa": "クルミル",
+    "generation": 5,
+    "firstMora": "ク",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 541,
+    "nameJa": "クルマユ",
+    "generation": 5,
+    "firstMora": "ク",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 542,
+    "nameJa": "ハハコモリ",
+    "generation": 5,
+    "firstMora": "ハ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 543,
+    "nameJa": "フシデ",
+    "generation": 5,
+    "firstMora": "フ",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 544,
+    "nameJa": "ホイーガ",
+    "generation": 5,
+    "firstMora": "ホ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 545,
+    "nameJa": "ペンドラー",
+    "generation": 5,
+    "firstMora": "ペ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 546,
+    "nameJa": "モンメン",
+    "generation": 5,
+    "firstMora": "モ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 547,
+    "nameJa": "エルフーン",
+    "generation": 5,
+    "firstMora": "エ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 548,
+    "nameJa": "チュリネ",
+    "generation": 5,
+    "firstMora": "チ",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 549,
+    "nameJa": "ドレディア",
+    "generation": 5,
+    "firstMora": "ド",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 550,
+    "nameJa": "バスラオ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 551,
+    "nameJa": "メグロコ",
+    "generation": 5,
+    "firstMora": "メ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 552,
+    "nameJa": "ワルビル",
+    "generation": 5,
+    "firstMora": "ワ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 553,
+    "nameJa": "ワルビアル",
+    "generation": 5,
+    "firstMora": "ワ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 554,
+    "nameJa": "ダルマッカ",
+    "generation": 5,
+    "firstMora": "ダ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 555,
+    "nameJa": "ヒヒダルマ",
+    "generation": 5,
+    "firstMora": "ヒ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 556,
+    "nameJa": "マラカッチ",
+    "generation": 5,
+    "firstMora": "マ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 557,
+    "nameJa": "イシズマイ",
+    "generation": 5,
+    "firstMora": "イ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 558,
+    "nameJa": "イワパレス",
+    "generation": 5,
+    "firstMora": "イ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 559,
+    "nameJa": "ズルッグ",
+    "generation": 5,
+    "firstMora": "ズ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 560,
+    "nameJa": "ズルズキン",
+    "generation": 5,
+    "firstMora": "ズ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 561,
+    "nameJa": "シンボラー",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 562,
+    "nameJa": "デスマス",
+    "generation": 5,
+    "firstMora": "デ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 563,
+    "nameJa": "デスカーン",
+    "generation": 5,
+    "firstMora": "デ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 564,
+    "nameJa": "プロトーガ",
+    "generation": 5,
+    "firstMora": "プ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 565,
+    "nameJa": "アバゴーラ",
+    "generation": 5,
+    "firstMora": "ア",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 566,
+    "nameJa": "アーケン",
+    "generation": 5,
+    "firstMora": "ア",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 567,
+    "nameJa": "アーケオス",
+    "generation": 5,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 568,
+    "nameJa": "ヤブクロン",
+    "generation": 5,
+    "firstMora": "ヤ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 569,
+    "nameJa": "ダストダス",
+    "generation": 5,
+    "firstMora": "ダ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 570,
+    "nameJa": "ゾロア",
+    "generation": 5,
+    "firstMora": "ゾ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 571,
+    "nameJa": "ゾロアーク",
+    "generation": 5,
+    "firstMora": "ゾ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 572,
+    "nameJa": "チラーミィ",
+    "generation": 5,
+    "firstMora": "チ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 573,
+    "nameJa": "チラチーノ",
+    "generation": 5,
+    "firstMora": "チ",
+    "lastMora": "ノ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 574,
+    "nameJa": "ゴチム",
+    "generation": 5,
+    "firstMora": "ゴ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 575,
+    "nameJa": "ゴチミル",
+    "generation": 5,
+    "firstMora": "ゴ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 576,
+    "nameJa": "ゴチルゼル",
+    "generation": 5,
+    "firstMora": "ゴ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 577,
+    "nameJa": "ユニラン",
+    "generation": 5,
+    "firstMora": "ユ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 578,
+    "nameJa": "ダブラン",
+    "generation": 5,
+    "firstMora": "ダ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 579,
+    "nameJa": "ランクルス",
+    "generation": 5,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 580,
+    "nameJa": "コアルヒー",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "ヒ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 581,
+    "nameJa": "スワンナ",
+    "generation": 5,
+    "firstMora": "ス",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 582,
+    "nameJa": "バニプッチ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 583,
+    "nameJa": "バニリッチ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 584,
+    "nameJa": "バイバニラ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 585,
+    "nameJa": "シキジカ",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 586,
+    "nameJa": "メブキジカ",
+    "generation": 5,
+    "firstMora": "メ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 587,
+    "nameJa": "エモンガ",
+    "generation": 5,
+    "firstMora": "エ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 588,
+    "nameJa": "カブルモ",
+    "generation": 5,
+    "firstMora": "カ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 589,
+    "nameJa": "シュバルゴ",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "ゴ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 590,
+    "nameJa": "タマゲタケ",
+    "generation": 5,
+    "firstMora": "タ",
+    "lastMora": "ケ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 591,
+    "nameJa": "モロバレル",
+    "generation": 5,
+    "firstMora": "モ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 592,
+    "nameJa": "プルリル",
+    "generation": 5,
+    "firstMora": "プ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 593,
+    "nameJa": "ブルンゲル",
+    "generation": 5,
+    "firstMora": "ブ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 594,
+    "nameJa": "ママンボウ",
+    "generation": 5,
+    "firstMora": "マ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 595,
+    "nameJa": "バチュル",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 596,
+    "nameJa": "デンチュラ",
+    "generation": 5,
+    "firstMora": "デ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 597,
+    "nameJa": "テッシード",
+    "generation": 5,
+    "firstMora": "テ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 598,
+    "nameJa": "ナットレイ",
+    "generation": 5,
+    "firstMora": "ナ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 599,
+    "nameJa": "ギアル",
+    "generation": 5,
+    "firstMora": "ギ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 600,
+    "nameJa": "ギギアル",
+    "generation": 5,
+    "firstMora": "ギ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 601,
+    "nameJa": "ギギギアル",
+    "generation": 5,
+    "firstMora": "ギ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 602,
+    "nameJa": "シビシラス",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 603,
+    "nameJa": "シビビール",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 604,
+    "nameJa": "シビルドン",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 605,
+    "nameJa": "リグレー",
+    "generation": 5,
+    "firstMora": "リ",
+    "lastMora": "レ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 606,
+    "nameJa": "オーベム",
+    "generation": 5,
+    "firstMora": "オ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 607,
+    "nameJa": "ヒトモシ",
+    "generation": 5,
+    "firstMora": "ヒ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 608,
+    "nameJa": "ランプラー",
+    "generation": 5,
+    "firstMora": "ラ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 609,
+    "nameJa": "シャンデラ",
+    "generation": 5,
+    "firstMora": "シ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 610,
+    "nameJa": "キバゴ",
+    "generation": 5,
+    "firstMora": "キ",
+    "lastMora": "ゴ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 611,
+    "nameJa": "オノンド",
+    "generation": 5,
+    "firstMora": "オ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 612,
+    "nameJa": "オノノクス",
+    "generation": 5,
+    "firstMora": "オ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 613,
+    "nameJa": "クマシュン",
+    "generation": 5,
+    "firstMora": "ク",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 614,
+    "nameJa": "ツンベアー",
+    "generation": 5,
+    "firstMora": "ツ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 615,
+    "nameJa": "フリージオ",
+    "generation": 5,
+    "firstMora": "フ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 616,
+    "nameJa": "チョボマキ",
+    "generation": 5,
+    "firstMora": "チ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 617,
+    "nameJa": "アギルダー",
+    "generation": 5,
+    "firstMora": "ア",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 618,
+    "nameJa": "マッギョ",
+    "generation": 5,
+    "firstMora": "マ",
+    "lastMora": "ヨ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 619,
+    "nameJa": "コジョフー",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "フ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 620,
+    "nameJa": "コジョンド",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 621,
+    "nameJa": "クリムガン",
+    "generation": 5,
+    "firstMora": "ク",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 622,
+    "nameJa": "ゴビット",
+    "generation": 5,
+    "firstMora": "ゴ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 623,
+    "nameJa": "ゴルーグ",
+    "generation": 5,
+    "firstMora": "ゴ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 624,
+    "nameJa": "コマタナ",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 625,
+    "nameJa": "キリキザン",
+    "generation": 5,
+    "firstMora": "キ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 626,
+    "nameJa": "バッフロン",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 627,
+    "nameJa": "ワシボン",
+    "generation": 5,
+    "firstMora": "ワ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 628,
+    "nameJa": "ウォーグル",
+    "generation": 5,
+    "firstMora": "ウ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 629,
+    "nameJa": "バルチャイ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 630,
+    "nameJa": "バルジーナ",
+    "generation": 5,
+    "firstMora": "バ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 631,
+    "nameJa": "クイタラン",
+    "generation": 5,
+    "firstMora": "ク",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 632,
+    "nameJa": "アイアント",
+    "generation": 5,
+    "firstMora": "ア",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 633,
+    "nameJa": "モノズ",
+    "generation": 5,
+    "firstMora": "モ",
+    "lastMora": "ズ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 634,
+    "nameJa": "ジヘッド",
+    "generation": 5,
+    "firstMora": "ジ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 635,
+    "nameJa": "サザンドラ",
+    "generation": 5,
+    "firstMora": "サ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 636,
+    "nameJa": "メラルバ",
+    "generation": 5,
+    "firstMora": "メ",
+    "lastMora": "バ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 637,
+    "nameJa": "ウルガモス",
+    "generation": 5,
+    "firstMora": "ウ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 638,
+    "nameJa": "コバルオン",
+    "generation": 5,
+    "firstMora": "コ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 639,
+    "nameJa": "テラキオン",
+    "generation": 5,
+    "firstMora": "テ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 640,
+    "nameJa": "ビリジオン",
+    "generation": 5,
+    "firstMora": "ビ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 641,
+    "nameJa": "トルネロス",
+    "generation": 5,
+    "firstMora": "ト",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 642,
+    "nameJa": "ボルトロス",
+    "generation": 5,
+    "firstMora": "ボ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 643,
+    "nameJa": "レシラム",
+    "generation": 5,
+    "firstMora": "レ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 644,
+    "nameJa": "ゼクロム",
+    "generation": 5,
+    "firstMora": "ゼ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 645,
+    "nameJa": "ランドロス",
+    "generation": 5,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 646,
+    "nameJa": "キュレム",
+    "generation": 5,
+    "firstMora": "キ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 647,
+    "nameJa": "ケルディオ",
+    "generation": 5,
+    "firstMora": "ケ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 648,
+    "nameJa": "メロエッタ",
+    "generation": 5,
+    "firstMora": "メ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 649,
+    "nameJa": "ゲノセクト",
+    "generation": 5,
+    "firstMora": "ゲ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 650,
+    "nameJa": "ハリマロン",
+    "generation": 6,
+    "firstMora": "ハ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 651,
+    "nameJa": "ハリボーグ",
+    "generation": 6,
+    "firstMora": "ハ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 652,
+    "nameJa": "ブリガロン",
+    "generation": 6,
+    "firstMora": "ブ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 653,
+    "nameJa": "フォッコ",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 654,
+    "nameJa": "テールナー",
+    "generation": 6,
+    "firstMora": "テ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 655,
+    "nameJa": "マフォクシー",
+    "generation": 6,
+    "firstMora": "マ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 656,
+    "nameJa": "ケロマツ",
+    "generation": 6,
+    "firstMora": "ケ",
+    "lastMora": "ツ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 657,
+    "nameJa": "ゲコガシラ",
+    "generation": 6,
+    "firstMora": "ゲ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 658,
+    "nameJa": "ゲッコウガ",
+    "generation": 6,
+    "firstMora": "ゲ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 659,
+    "nameJa": "ホルビー",
+    "generation": 6,
+    "firstMora": "ホ",
+    "lastMora": "ビ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 660,
+    "nameJa": "ホルード",
+    "generation": 6,
+    "firstMora": "ホ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 661,
+    "nameJa": "ヤヤコマ",
+    "generation": 6,
+    "firstMora": "ヤ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 662,
+    "nameJa": "ヒノヤコマ",
+    "generation": 6,
+    "firstMora": "ヒ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 663,
+    "nameJa": "ファイアロー",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 664,
+    "nameJa": "コフキムシ",
+    "generation": 6,
+    "firstMora": "コ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 665,
+    "nameJa": "コフーライ",
+    "generation": 6,
+    "firstMora": "コ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 666,
+    "nameJa": "ビビヨン",
+    "generation": 6,
+    "firstMora": "ビ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 667,
+    "nameJa": "シシコ",
+    "generation": 6,
+    "firstMora": "シ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 668,
+    "nameJa": "カエンジシ",
+    "generation": 6,
+    "firstMora": "カ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 669,
+    "nameJa": "フラベベ",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "ベ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 670,
+    "nameJa": "フラエッテ",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "テ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 671,
+    "nameJa": "フラージェス",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 672,
+    "nameJa": "メェークル",
+    "generation": 6,
+    "firstMora": "メ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 673,
+    "nameJa": "ゴーゴート",
+    "generation": 6,
+    "firstMora": "ゴ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 674,
+    "nameJa": "ヤンチャム",
+    "generation": 6,
+    "firstMora": "ヤ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 675,
+    "nameJa": "ゴロンダ",
+    "generation": 6,
+    "firstMora": "ゴ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 676,
+    "nameJa": "トリミアン",
+    "generation": 6,
+    "firstMora": "ト",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 677,
+    "nameJa": "ニャスパー",
+    "generation": 6,
+    "firstMora": "ニ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 678,
+    "nameJa": "ニャオニクス",
+    "generation": 6,
+    "firstMora": "ニ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 679,
+    "nameJa": "ヒトツキ",
+    "generation": 6,
+    "firstMora": "ヒ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 680,
+    "nameJa": "ニダンギル",
+    "generation": 6,
+    "firstMora": "ニ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 681,
+    "nameJa": "ギルガルド",
+    "generation": 6,
+    "firstMora": "ギ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 682,
+    "nameJa": "シュシュプ",
+    "generation": 6,
+    "firstMora": "シ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 683,
+    "nameJa": "フレフワン",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 684,
+    "nameJa": "ペロッパフ",
+    "generation": 6,
+    "firstMora": "ペ",
+    "lastMora": "フ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 685,
+    "nameJa": "ペロリーム",
+    "generation": 6,
+    "firstMora": "ペ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 686,
+    "nameJa": "マーイーカ",
+    "generation": 6,
+    "firstMora": "マ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 687,
+    "nameJa": "カラマネロ",
+    "generation": 6,
+    "firstMora": "カ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 688,
+    "nameJa": "カメテテ",
+    "generation": 6,
+    "firstMora": "カ",
+    "lastMora": "テ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 689,
+    "nameJa": "ガメノデス",
+    "generation": 6,
+    "firstMora": "ガ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 690,
+    "nameJa": "クズモー",
+    "generation": 6,
+    "firstMora": "ク",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 691,
+    "nameJa": "ドラミドロ",
+    "generation": 6,
+    "firstMora": "ド",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 692,
+    "nameJa": "ウデッポウ",
+    "generation": 6,
+    "firstMora": "ウ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 693,
+    "nameJa": "ブロスター",
+    "generation": 6,
+    "firstMora": "ブ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 694,
+    "nameJa": "エリキテル",
+    "generation": 6,
+    "firstMora": "エ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 695,
+    "nameJa": "エレザード",
+    "generation": 6,
+    "firstMora": "エ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 696,
+    "nameJa": "チゴラス",
+    "generation": 6,
+    "firstMora": "チ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 697,
+    "nameJa": "ガチゴラス",
+    "generation": 6,
+    "firstMora": "ガ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 698,
+    "nameJa": "アマルス",
+    "generation": 6,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 699,
+    "nameJa": "アマルルガ",
+    "generation": 6,
+    "firstMora": "ア",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 700,
+    "nameJa": "ニンフィア",
+    "generation": 6,
+    "firstMora": "ニ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 701,
+    "nameJa": "ルチャブル",
+    "generation": 6,
+    "firstMora": "ル",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 702,
+    "nameJa": "デデンネ",
+    "generation": 6,
+    "firstMora": "デ",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 703,
+    "nameJa": "メレシー",
+    "generation": 6,
+    "firstMora": "メ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 704,
+    "nameJa": "ヌメラ",
+    "generation": 6,
+    "firstMora": "ヌ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 705,
+    "nameJa": "ヌメイル",
+    "generation": 6,
+    "firstMora": "ヌ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 706,
+    "nameJa": "ヌメルゴン",
+    "generation": 6,
+    "firstMora": "ヌ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 707,
+    "nameJa": "クレッフィ",
+    "generation": 6,
+    "firstMora": "ク",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 708,
+    "nameJa": "ボクレー",
+    "generation": 6,
+    "firstMora": "ボ",
+    "lastMora": "レ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 709,
+    "nameJa": "オーロット",
+    "generation": 6,
+    "firstMora": "オ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 710,
+    "nameJa": "バケッチャ",
+    "generation": 6,
+    "firstMora": "バ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 711,
+    "nameJa": "パンプジン",
+    "generation": 6,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 712,
+    "nameJa": "カチコール",
+    "generation": 6,
+    "firstMora": "カ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 713,
+    "nameJa": "クレベース",
+    "generation": 6,
+    "firstMora": "ク",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 714,
+    "nameJa": "オンバット",
+    "generation": 6,
+    "firstMora": "オ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 715,
+    "nameJa": "オンバーン",
+    "generation": 6,
+    "firstMora": "オ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 716,
+    "nameJa": "ゼルネアス",
+    "generation": 6,
+    "firstMora": "ゼ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 717,
+    "nameJa": "イベルタル",
+    "generation": 6,
+    "firstMora": "イ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 718,
+    "nameJa": "ジガルデ",
+    "generation": 6,
+    "firstMora": "ジ",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 719,
+    "nameJa": "ディアンシー",
+    "generation": 6,
+    "firstMora": "デ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 720,
+    "nameJa": "フーパ",
+    "generation": 6,
+    "firstMora": "フ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 721,
+    "nameJa": "ボルケニオン",
+    "generation": 6,
+    "firstMora": "ボ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 722,
+    "nameJa": "モクロー",
+    "generation": 7,
+    "firstMora": "モ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 723,
+    "nameJa": "フクスロー",
+    "generation": 7,
+    "firstMora": "フ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 724,
+    "nameJa": "ジュナイパー",
+    "generation": 7,
+    "firstMora": "ジ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 725,
+    "nameJa": "ニャビー",
+    "generation": 7,
+    "firstMora": "ニ",
+    "lastMora": "ビ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 726,
+    "nameJa": "ニャヒート",
+    "generation": 7,
+    "firstMora": "ニ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 727,
+    "nameJa": "ガオガエン",
+    "generation": 7,
+    "firstMora": "ガ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 728,
+    "nameJa": "アシマリ",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 729,
+    "nameJa": "オシャマリ",
+    "generation": 7,
+    "firstMora": "オ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 730,
+    "nameJa": "アシレーヌ",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "ヌ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 731,
+    "nameJa": "ツツケラ",
+    "generation": 7,
+    "firstMora": "ツ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 732,
+    "nameJa": "ケララッパ",
+    "generation": 7,
+    "firstMora": "ケ",
+    "lastMora": "パ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 733,
+    "nameJa": "ドデカバシ",
+    "generation": 7,
+    "firstMora": "ド",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 734,
+    "nameJa": "ヤングース",
+    "generation": 7,
+    "firstMora": "ヤ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 735,
+    "nameJa": "デカグース",
+    "generation": 7,
+    "firstMora": "デ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 736,
+    "nameJa": "アゴジムシ",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 737,
+    "nameJa": "デンヂムシ",
+    "generation": 7,
+    "firstMora": "デ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 738,
+    "nameJa": "クワガノン",
+    "generation": 7,
+    "firstMora": "ク",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 739,
+    "nameJa": "マケンカニ",
+    "generation": 7,
+    "firstMora": "マ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 740,
+    "nameJa": "ケケンカニ",
+    "generation": 7,
+    "firstMora": "ケ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 741,
+    "nameJa": "オドリドリ",
+    "generation": 7,
+    "firstMora": "オ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 742,
+    "nameJa": "アブリー",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 743,
+    "nameJa": "アブリボン",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 744,
+    "nameJa": "イワンコ",
+    "generation": 7,
+    "firstMora": "イ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 745,
+    "nameJa": "ルガルガン",
+    "generation": 7,
+    "firstMora": "ル",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 746,
+    "nameJa": "ヨワシ",
+    "generation": 7,
+    "firstMora": "ヨ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 747,
+    "nameJa": "ヒドイデ",
+    "generation": 7,
+    "firstMora": "ヒ",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 748,
+    "nameJa": "ドヒドイデ",
+    "generation": 7,
+    "firstMora": "ド",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 749,
+    "nameJa": "ドロバンコ",
+    "generation": 7,
+    "firstMora": "ド",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 750,
+    "nameJa": "バンバドロ",
+    "generation": 7,
+    "firstMora": "バ",
+    "lastMora": "ロ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 751,
+    "nameJa": "シズクモ",
+    "generation": 7,
+    "firstMora": "シ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 752,
+    "nameJa": "オニシズクモ",
+    "generation": 7,
+    "firstMora": "オ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 753,
+    "nameJa": "カリキリ",
+    "generation": 7,
+    "firstMora": "カ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 754,
+    "nameJa": "ラランテス",
+    "generation": 7,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 755,
+    "nameJa": "ネマシュ",
+    "generation": 7,
+    "firstMora": "ネ",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 756,
+    "nameJa": "マシェード",
+    "generation": 7,
+    "firstMora": "マ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 757,
+    "nameJa": "ヤトウモリ",
+    "generation": 7,
+    "firstMora": "ヤ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 758,
+    "nameJa": "エンニュート",
+    "generation": 7,
+    "firstMora": "エ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 759,
+    "nameJa": "ヌイコグマ",
+    "generation": 7,
+    "firstMora": "ヌ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 760,
+    "nameJa": "キテルグマ",
+    "generation": 7,
+    "firstMora": "キ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 761,
+    "nameJa": "アマカジ",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "ジ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 762,
+    "nameJa": "アママイコ",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 763,
+    "nameJa": "アマージョ",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "ヨ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 764,
+    "nameJa": "キュワワー",
+    "generation": 7,
+    "firstMora": "キ",
+    "lastMora": "ワ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 765,
+    "nameJa": "ヤレユータン",
+    "generation": 7,
+    "firstMora": "ヤ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 766,
+    "nameJa": "ナゲツケサル",
+    "generation": 7,
+    "firstMora": "ナ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 767,
+    "nameJa": "コソクムシ",
+    "generation": 7,
+    "firstMora": "コ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 768,
+    "nameJa": "グソクムシャ",
+    "generation": 7,
+    "firstMora": "グ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 769,
+    "nameJa": "スナバァ",
+    "generation": 7,
+    "firstMora": "ス",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 770,
+    "nameJa": "シロデスナ",
+    "generation": 7,
+    "firstMora": "シ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 771,
+    "nameJa": "ナマコブシ",
+    "generation": 7,
+    "firstMora": "ナ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 772,
+    "nameJa": "タイプ：ヌル",
+    "generation": 7,
+    "firstMora": "タ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 773,
+    "nameJa": "シルヴァディ",
+    "generation": 7,
+    "firstMora": "シ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 774,
+    "nameJa": "メテノ",
+    "generation": 7,
+    "firstMora": "メ",
+    "lastMora": "ノ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 775,
+    "nameJa": "ネッコアラ",
+    "generation": 7,
+    "firstMora": "ネ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 776,
+    "nameJa": "バクガメス",
+    "generation": 7,
+    "firstMora": "バ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 777,
+    "nameJa": "トゲデマル",
+    "generation": 7,
+    "firstMora": "ト",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 778,
+    "nameJa": "ミミッキュ",
+    "generation": 7,
+    "firstMora": "ミ",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 779,
+    "nameJa": "ハギギシリ",
+    "generation": 7,
+    "firstMora": "ハ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 780,
+    "nameJa": "ジジーロン",
+    "generation": 7,
+    "firstMora": "ジ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 781,
+    "nameJa": "ダダリン",
+    "generation": 7,
+    "firstMora": "ダ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 782,
+    "nameJa": "ジャラコ",
+    "generation": 7,
+    "firstMora": "ジ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 783,
+    "nameJa": "ジャランゴ",
+    "generation": 7,
+    "firstMora": "ジ",
+    "lastMora": "ゴ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 784,
+    "nameJa": "ジャラランガ",
+    "generation": 7,
+    "firstMora": "ジ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 785,
+    "nameJa": "カプ・コケコ",
+    "generation": 7,
+    "firstMora": "カ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 786,
+    "nameJa": "カプ・テテフ",
+    "generation": 7,
+    "firstMora": "カ",
+    "lastMora": "フ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 787,
+    "nameJa": "カプ・ブルル",
+    "generation": 7,
+    "firstMora": "カ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 788,
+    "nameJa": "カプ・レヒレ",
+    "generation": 7,
+    "firstMora": "カ",
+    "lastMora": "レ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 789,
+    "nameJa": "コスモッグ",
+    "generation": 7,
+    "firstMora": "コ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 790,
+    "nameJa": "コスモウム",
+    "generation": 7,
+    "firstMora": "コ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 791,
+    "nameJa": "ソルガレオ",
+    "generation": 7,
+    "firstMora": "ソ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 792,
+    "nameJa": "ルナアーラ",
+    "generation": 7,
+    "firstMora": "ル",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 793,
+    "nameJa": "ウツロイド",
+    "generation": 7,
+    "firstMora": "ウ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 794,
+    "nameJa": "マッシブーン",
+    "generation": 7,
+    "firstMora": "マ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 795,
+    "nameJa": "フェローチェ",
+    "generation": 7,
+    "firstMora": "フ",
+    "lastMora": "エ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 796,
+    "nameJa": "デンジュモク",
+    "generation": 7,
+    "firstMora": "デ",
+    "lastMora": "ク",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 797,
+    "nameJa": "テッカグヤ",
+    "generation": 7,
+    "firstMora": "テ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 798,
+    "nameJa": "カミツルギ",
+    "generation": 7,
+    "firstMora": "カ",
+    "lastMora": "ギ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 799,
+    "nameJa": "アクジキング",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 800,
+    "nameJa": "ネクロズマ",
+    "generation": 7,
+    "firstMora": "ネ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 801,
+    "nameJa": "マギアナ",
+    "generation": 7,
+    "firstMora": "マ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 802,
+    "nameJa": "マーシャドー",
+    "generation": 7,
+    "firstMora": "マ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 803,
+    "nameJa": "ベベノム",
+    "generation": 7,
+    "firstMora": "ベ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 804,
+    "nameJa": "アーゴヨン",
+    "generation": 7,
+    "firstMora": "ア",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 805,
+    "nameJa": "ツンデツンデ",
+    "generation": 7,
+    "firstMora": "ツ",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 806,
+    "nameJa": "ズガドーン",
+    "generation": 7,
+    "firstMora": "ズ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 807,
+    "nameJa": "ゼラオラ",
+    "generation": 7,
+    "firstMora": "ゼ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 808,
+    "nameJa": "メルタン",
+    "generation": 7,
+    "firstMora": "メ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 809,
+    "nameJa": "メルメタル",
+    "generation": 7,
+    "firstMora": "メ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 810,
+    "nameJa": "サルノリ",
+    "generation": 8,
+    "firstMora": "サ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 811,
+    "nameJa": "バチンキー",
+    "generation": 8,
+    "firstMora": "バ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 812,
+    "nameJa": "ゴリランダー",
+    "generation": 8,
+    "firstMora": "ゴ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 813,
+    "nameJa": "ヒバニー",
+    "generation": 8,
+    "firstMora": "ヒ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 814,
+    "nameJa": "ラビフット",
+    "generation": 8,
+    "firstMora": "ラ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 815,
+    "nameJa": "エースバーン",
+    "generation": 8,
+    "firstMora": "エ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 816,
+    "nameJa": "メッソン",
+    "generation": 8,
+    "firstMora": "メ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 817,
+    "nameJa": "ジメレオン",
+    "generation": 8,
+    "firstMora": "ジ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 818,
+    "nameJa": "インテレオン",
+    "generation": 8,
+    "firstMora": "イ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 819,
+    "nameJa": "ホシガリス",
+    "generation": 8,
+    "firstMora": "ホ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 820,
+    "nameJa": "ヨクバリス",
+    "generation": 8,
+    "firstMora": "ヨ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 821,
+    "nameJa": "ココガラ",
+    "generation": 8,
+    "firstMora": "コ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 822,
+    "nameJa": "アオガラス",
+    "generation": 8,
+    "firstMora": "ア",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 823,
+    "nameJa": "アーマーガア",
+    "generation": 8,
+    "firstMora": "ア",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 824,
+    "nameJa": "サッチムシ",
+    "generation": 8,
+    "firstMora": "サ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 825,
+    "nameJa": "レドームシ",
+    "generation": 8,
+    "firstMora": "レ",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 826,
+    "nameJa": "イオルブ",
+    "generation": 8,
+    "firstMora": "イ",
+    "lastMora": "ブ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 827,
+    "nameJa": "クスネ",
+    "generation": 8,
+    "firstMora": "ク",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 828,
+    "nameJa": "フォクスライ",
+    "generation": 8,
+    "firstMora": "フ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 829,
+    "nameJa": "ヒメンカ",
+    "generation": 8,
+    "firstMora": "ヒ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 830,
+    "nameJa": "ワタシラガ",
+    "generation": 8,
+    "firstMora": "ワ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 831,
+    "nameJa": "ウールー",
+    "generation": 8,
+    "firstMora": "ウ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 832,
+    "nameJa": "バイウールー",
+    "generation": 8,
+    "firstMora": "バ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 833,
+    "nameJa": "カムカメ",
+    "generation": 8,
+    "firstMora": "カ",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 834,
+    "nameJa": "カジリガメ",
+    "generation": 8,
+    "firstMora": "カ",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 835,
+    "nameJa": "ワンパチ",
+    "generation": 8,
+    "firstMora": "ワ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 836,
+    "nameJa": "パルスワン",
+    "generation": 8,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 837,
+    "nameJa": "タンドン",
+    "generation": 8,
+    "firstMora": "タ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 838,
+    "nameJa": "トロッゴン",
+    "generation": 8,
+    "firstMora": "ト",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 839,
+    "nameJa": "セキタンザン",
+    "generation": 8,
+    "firstMora": "セ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 840,
+    "nameJa": "カジッチュ",
+    "generation": 8,
+    "firstMora": "カ",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 841,
+    "nameJa": "アップリュー",
+    "generation": 8,
+    "firstMora": "ア",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 842,
+    "nameJa": "タルップル",
+    "generation": 8,
+    "firstMora": "タ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 843,
+    "nameJa": "スナヘビ",
+    "generation": 8,
+    "firstMora": "ス",
+    "lastMora": "ビ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 844,
+    "nameJa": "サダイジャ",
+    "generation": 8,
+    "firstMora": "サ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 845,
+    "nameJa": "ウッウ",
+    "generation": 8,
+    "firstMora": "ウ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 846,
+    "nameJa": "サシカマス",
+    "generation": 8,
+    "firstMora": "サ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 847,
+    "nameJa": "カマスジョー",
+    "generation": 8,
+    "firstMora": "カ",
+    "lastMora": "ヨ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 848,
+    "nameJa": "エレズン",
+    "generation": 8,
+    "firstMora": "エ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 849,
+    "nameJa": "ストリンダー",
+    "generation": 8,
+    "firstMora": "ス",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 850,
+    "nameJa": "ヤクデ",
+    "generation": 8,
+    "firstMora": "ヤ",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 851,
+    "nameJa": "マルヤクデ",
+    "generation": 8,
+    "firstMora": "マ",
+    "lastMora": "デ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 852,
+    "nameJa": "タタッコ",
+    "generation": 8,
+    "firstMora": "タ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 853,
+    "nameJa": "オトスパス",
+    "generation": 8,
+    "firstMora": "オ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 854,
+    "nameJa": "ヤバチャ",
+    "generation": 8,
+    "firstMora": "ヤ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 855,
+    "nameJa": "ポットデス",
+    "generation": 8,
+    "firstMora": "ポ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 856,
+    "nameJa": "ミブリム",
+    "generation": 8,
+    "firstMora": "ミ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 857,
+    "nameJa": "テブリム",
+    "generation": 8,
+    "firstMora": "テ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 858,
+    "nameJa": "ブリムオン",
+    "generation": 8,
+    "firstMora": "ブ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 859,
+    "nameJa": "ベロバー",
+    "generation": 8,
+    "firstMora": "ベ",
+    "lastMora": "バ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 860,
+    "nameJa": "ギモー",
+    "generation": 8,
+    "firstMora": "ギ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 861,
+    "nameJa": "オーロンゲ",
+    "generation": 8,
+    "firstMora": "オ",
+    "lastMora": "ゲ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 862,
+    "nameJa": "タチフサグマ",
+    "generation": 8,
+    "firstMora": "タ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 863,
+    "nameJa": "ニャイキング",
+    "generation": 8,
+    "firstMora": "ニ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 864,
+    "nameJa": "サニゴーン",
+    "generation": 8,
+    "firstMora": "サ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 865,
+    "nameJa": "ネギガナイト",
+    "generation": 8,
+    "firstMora": "ネ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 866,
+    "nameJa": "バリコオル",
+    "generation": 8,
+    "firstMora": "バ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 867,
+    "nameJa": "デスバーン",
+    "generation": 8,
+    "firstMora": "デ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 868,
+    "nameJa": "マホミル",
+    "generation": 8,
+    "firstMora": "マ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 869,
+    "nameJa": "マホイップ",
+    "generation": 8,
+    "firstMora": "マ",
+    "lastMora": "プ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 870,
+    "nameJa": "タイレーツ",
+    "generation": 8,
+    "firstMora": "タ",
+    "lastMora": "ツ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 871,
+    "nameJa": "バチンウニ",
+    "generation": 8,
+    "firstMora": "バ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 872,
+    "nameJa": "ユキハミ",
+    "generation": 8,
+    "firstMora": "ユ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 873,
+    "nameJa": "モスノウ",
+    "generation": 8,
+    "firstMora": "モ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 874,
+    "nameJa": "イシヘンジン",
+    "generation": 8,
+    "firstMora": "イ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 875,
+    "nameJa": "コオリッポ",
+    "generation": 8,
+    "firstMora": "コ",
+    "lastMora": "ポ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 876,
+    "nameJa": "イエッサン",
+    "generation": 8,
+    "firstMora": "イ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 877,
+    "nameJa": "モルペコ",
+    "generation": 8,
+    "firstMora": "モ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 878,
+    "nameJa": "ゾウドウ",
+    "generation": 8,
+    "firstMora": "ゾ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 879,
+    "nameJa": "ダイオウドウ",
+    "generation": 8,
+    "firstMora": "ダ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 880,
+    "nameJa": "パッチラゴン",
+    "generation": 8,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 881,
+    "nameJa": "パッチルドン",
+    "generation": 8,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 882,
+    "nameJa": "ウオノラゴン",
+    "generation": 8,
+    "firstMora": "ウ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 883,
+    "nameJa": "ウオチルドン",
+    "generation": 8,
+    "firstMora": "ウ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 884,
+    "nameJa": "ジュラルドン",
+    "generation": 8,
+    "firstMora": "ジ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 885,
+    "nameJa": "ドラメシヤ",
+    "generation": 8,
+    "firstMora": "ド",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 886,
+    "nameJa": "ドロンチ",
+    "generation": 8,
+    "firstMora": "ド",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 887,
+    "nameJa": "ドラパルト",
+    "generation": 8,
+    "firstMora": "ド",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 888,
+    "nameJa": "ザシアン",
+    "generation": 8,
+    "firstMora": "ザ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 889,
+    "nameJa": "ザマゼンタ",
+    "generation": 8,
+    "firstMora": "ザ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 890,
+    "nameJa": "ムゲンダイナ",
+    "generation": 8,
+    "firstMora": "ム",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 891,
+    "nameJa": "ダクマ",
+    "generation": 8,
+    "firstMora": "ダ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 892,
+    "nameJa": "ウーラオス",
+    "generation": 8,
+    "firstMora": "ウ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 893,
+    "nameJa": "ザルード",
+    "generation": 8,
+    "firstMora": "ザ",
+    "lastMora": "ド",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  },
+  {
+    "id": 894,
+    "nameJa": "レジエレキ",
+    "generation": 8,
+    "firstMora": "レ",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 895,
+    "nameJa": "レジドラゴ",
+    "generation": 8,
+    "firstMora": "レ",
+    "lastMora": "ゴ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 896,
+    "nameJa": "ブリザポス",
+    "generation": 8,
+    "firstMora": "ブ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 897,
+    "nameJa": "レイスポス",
+    "generation": 8,
+    "firstMora": "レ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 898,
+    "nameJa": "バドレックス",
+    "generation": 8,
+    "firstMora": "バ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 899,
+    "nameJa": "アヤシシ",
+    "generation": 8,
+    "firstMora": "ア",
+    "lastMora": "シ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 900,
+    "nameJa": "バサギリ",
+    "generation": 8,
+    "firstMora": "バ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 901,
+    "nameJa": "ガチグマ",
+    "generation": 8,
+    "firstMora": "ガ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 902,
+    "nameJa": "イダイトウ",
+    "generation": 8,
+    "firstMora": "イ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 903,
+    "nameJa": "オオニューラ",
+    "generation": 8,
+    "firstMora": "オ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 904,
+    "nameJa": "ハリーマン",
+    "generation": 8,
+    "firstMora": "ハ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 905,
+    "nameJa": "ラブトロス",
+    "generation": 8,
+    "firstMora": "ラ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 906,
+    "nameJa": "ニャオハ",
+    "generation": 9,
+    "firstMora": "ニ",
+    "lastMora": "ハ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 907,
+    "nameJa": "ニャローテ",
+    "generation": 9,
+    "firstMora": "ニ",
+    "lastMora": "テ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 908,
+    "nameJa": "マスカーニャ",
+    "generation": 9,
+    "firstMora": "マ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 909,
+    "nameJa": "ホゲータ",
+    "generation": 9,
+    "firstMora": "ホ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 910,
+    "nameJa": "アチゲータ",
+    "generation": 9,
+    "firstMora": "ア",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 911,
+    "nameJa": "ラウドボーン",
+    "generation": 9,
+    "firstMora": "ラ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 912,
+    "nameJa": "クワッス",
+    "generation": 9,
+    "firstMora": "ク",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 913,
+    "nameJa": "ウェルカモ",
+    "generation": 9,
+    "firstMora": "ウ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 914,
+    "nameJa": "ウェーニバル",
+    "generation": 9,
+    "firstMora": "ウ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 915,
+    "nameJa": "グルトン",
+    "generation": 9,
+    "firstMora": "グ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 916,
+    "nameJa": "パフュートン",
+    "generation": 9,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 917,
+    "nameJa": "タマンチュラ",
+    "generation": 9,
+    "firstMora": "タ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 918,
+    "nameJa": "ワナイダー",
+    "generation": 9,
+    "firstMora": "ワ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 919,
+    "nameJa": "マメバッタ",
+    "generation": 9,
+    "firstMora": "マ",
+    "lastMora": "タ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 920,
+    "nameJa": "エクスレッグ",
+    "generation": 9,
+    "firstMora": "エ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 921,
+    "nameJa": "パモ",
+    "generation": 9,
+    "firstMora": "パ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 922,
+    "nameJa": "パモット",
+    "generation": 9,
+    "firstMora": "パ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 923,
+    "nameJa": "パーモット",
+    "generation": 9,
+    "firstMora": "パ",
+    "lastMora": "ト",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 924,
+    "nameJa": "ワッカネズミ",
+    "generation": 9,
+    "firstMora": "ワ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 925,
+    "nameJa": "イッカネズミ",
+    "generation": 9,
+    "firstMora": "イ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 926,
+    "nameJa": "パピモッチ",
+    "generation": 9,
+    "firstMora": "パ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 927,
+    "nameJa": "バウッツェル",
+    "generation": 9,
+    "firstMora": "バ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 928,
+    "nameJa": "ミニーブ",
+    "generation": 9,
+    "firstMora": "ミ",
+    "lastMora": "ブ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 929,
+    "nameJa": "オリーニョ",
+    "generation": 9,
+    "firstMora": "オ",
+    "lastMora": "ヨ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 930,
+    "nameJa": "オリーヴァ",
+    "generation": 9,
+    "firstMora": "オ",
+    "lastMora": "ア",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 931,
+    "nameJa": "イキリンコ",
+    "generation": 9,
+    "firstMora": "イ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 932,
+    "nameJa": "コジオ",
+    "generation": 9,
+    "firstMora": "コ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 933,
+    "nameJa": "ジオヅム",
+    "generation": 9,
+    "firstMora": "ジ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 934,
+    "nameJa": "キョジオーン",
+    "generation": 9,
+    "firstMora": "キ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 935,
+    "nameJa": "カルボウ",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 936,
+    "nameJa": "グレンアルマ",
+    "generation": 9,
+    "firstMora": "グ",
+    "lastMora": "マ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 937,
+    "nameJa": "ソウブレイズ",
+    "generation": 9,
+    "firstMora": "ソ",
+    "lastMora": "ズ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 938,
+    "nameJa": "ズピカ",
+    "generation": 9,
+    "firstMora": "ズ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 939,
+    "nameJa": "ハラバリー",
+    "generation": 9,
+    "firstMora": "ハ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 940,
+    "nameJa": "カイデン",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 941,
+    "nameJa": "タイカイデン",
+    "generation": 9,
+    "firstMora": "タ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 942,
+    "nameJa": "オラチフ",
+    "generation": 9,
+    "firstMora": "オ",
+    "lastMora": "フ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 943,
+    "nameJa": "マフィティフ",
+    "generation": 9,
+    "firstMora": "マ",
+    "lastMora": "フ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 944,
+    "nameJa": "シルシュルー",
+    "generation": 9,
+    "firstMora": "シ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 945,
+    "nameJa": "タギングル",
+    "generation": 9,
+    "firstMora": "タ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 946,
+    "nameJa": "アノクサ",
+    "generation": 9,
+    "firstMora": "ア",
+    "lastMora": "サ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 947,
+    "nameJa": "アノホラグサ",
+    "generation": 9,
+    "firstMora": "ア",
+    "lastMora": "サ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 948,
+    "nameJa": "ノノクラゲ",
+    "generation": 9,
+    "firstMora": "ノ",
+    "lastMora": "ゲ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 949,
+    "nameJa": "リククラゲ",
+    "generation": 9,
+    "firstMora": "リ",
+    "lastMora": "ゲ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 950,
+    "nameJa": "ガケガニ",
+    "generation": 9,
+    "firstMora": "ガ",
+    "lastMora": "ニ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 951,
+    "nameJa": "カプサイジ",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "ジ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 952,
+    "nameJa": "スコヴィラン",
+    "generation": 9,
+    "firstMora": "ス",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 953,
+    "nameJa": "シガロコ",
+    "generation": 9,
+    "firstMora": "シ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 954,
+    "nameJa": "ベラカス",
+    "generation": 9,
+    "firstMora": "ベ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 955,
+    "nameJa": "ヒラヒナ",
+    "generation": 9,
+    "firstMora": "ヒ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 956,
+    "nameJa": "クエスパトラ",
+    "generation": 9,
+    "firstMora": "ク",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 957,
+    "nameJa": "カヌチャン",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 958,
+    "nameJa": "ナカヌチャン",
+    "generation": 9,
+    "firstMora": "ナ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 959,
+    "nameJa": "デカヌチャン",
+    "generation": 9,
+    "firstMora": "デ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 960,
+    "nameJa": "ウミディグダ",
+    "generation": 9,
+    "firstMora": "ウ",
+    "lastMora": "ダ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 961,
+    "nameJa": "ウミトリオ",
+    "generation": 9,
+    "firstMora": "ウ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 962,
+    "nameJa": "オトシドリ",
+    "generation": 9,
+    "firstMora": "オ",
+    "lastMora": "リ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 963,
+    "nameJa": "ナミイルカ",
+    "generation": 9,
+    "firstMora": "ナ",
+    "lastMora": "カ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 964,
+    "nameJa": "イルカマン",
+    "generation": 9,
+    "firstMora": "イ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 965,
+    "nameJa": "ブロロン",
+    "generation": 9,
+    "firstMora": "ブ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 966,
+    "nameJa": "ブロロローム",
+    "generation": 9,
+    "firstMora": "ブ",
+    "lastMora": "ム",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 967,
+    "nameJa": "モトトカゲ",
+    "generation": 9,
+    "firstMora": "モ",
+    "lastMora": "ゲ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 968,
+    "nameJa": "ミミズズ",
+    "generation": 9,
+    "firstMora": "ミ",
+    "lastMora": "ズ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 969,
+    "nameJa": "キラーメ",
+    "generation": 9,
+    "firstMora": "キ",
+    "lastMora": "メ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 970,
+    "nameJa": "キラフロル",
+    "generation": 9,
+    "firstMora": "キ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 971,
+    "nameJa": "ボチ",
+    "generation": 9,
+    "firstMora": "ボ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 972,
+    "nameJa": "ハカドッグ",
+    "generation": 9,
+    "firstMora": "ハ",
+    "lastMora": "グ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 973,
+    "nameJa": "カラミンゴ",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "ゴ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 974,
+    "nameJa": "アルクジラ",
+    "generation": 9,
+    "firstMora": "ア",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 975,
+    "nameJa": "ハルクジラ",
+    "generation": 9,
+    "firstMora": "ハ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 976,
+    "nameJa": "ミガルーサ",
+    "generation": 9,
+    "firstMora": "ミ",
+    "lastMora": "サ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 977,
+    "nameJa": "ヘイラッシャ",
+    "generation": 9,
+    "firstMora": "ヘ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 978,
+    "nameJa": "シャリタツ",
+    "generation": 9,
+    "firstMora": "シ",
+    "lastMora": "ツ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 979,
+    "nameJa": "コノヨザル",
+    "generation": 9,
+    "firstMora": "コ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 980,
+    "nameJa": "ドオー",
+    "generation": 9,
+    "firstMora": "ド",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 981,
+    "nameJa": "リキキリン",
+    "generation": 9,
+    "firstMora": "リ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 982,
+    "nameJa": "ノココッチ",
+    "generation": 9,
+    "firstMora": "ノ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 983,
+    "nameJa": "ドドゲザン",
+    "generation": 9,
+    "firstMora": "ド",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 984,
+    "nameJa": "イダイナキバ",
+    "generation": 9,
+    "firstMora": "イ",
+    "lastMora": "バ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 985,
+    "nameJa": "サケブシッポ",
+    "generation": 9,
+    "firstMora": "サ",
+    "lastMora": "ポ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 986,
+    "nameJa": "アラブルタケ",
+    "generation": 9,
+    "firstMora": "ア",
+    "lastMora": "ケ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 987,
+    "nameJa": "ハバタクカミ",
+    "generation": 9,
+    "firstMora": "ハ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 988,
+    "nameJa": "チヲハウハネ",
+    "generation": 9,
+    "firstMora": "チ",
+    "lastMora": "ネ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 989,
+    "nameJa": "スナノケガワ",
+    "generation": 9,
+    "firstMora": "ス",
+    "lastMora": "ワ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 990,
+    "nameJa": "テツノワダチ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 991,
+    "nameJa": "テツノツツミ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ミ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 992,
+    "nameJa": "テツノカイナ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ナ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 993,
+    "nameJa": "テツノコウベ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ベ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 994,
+    "nameJa": "テツノドクガ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ガ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 995,
+    "nameJa": "テツノイバラ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 996,
+    "nameJa": "セビエ",
+    "generation": 9,
+    "firstMora": "セ",
+    "lastMora": "エ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 997,
+    "nameJa": "セゴール",
+    "generation": 9,
+    "firstMora": "セ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 998,
+    "nameJa": "セグレイブ",
+    "generation": 9,
+    "firstMora": "セ",
+    "lastMora": "ブ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 999,
+    "nameJa": "コレクレー",
+    "generation": 9,
+    "firstMora": "コ",
+    "lastMora": "レ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1000,
+    "nameJa": "サーフゴー",
+    "generation": 9,
+    "firstMora": "サ",
+    "lastMora": "ゴ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1001,
+    "nameJa": "チオンジェン",
+    "generation": 9,
+    "firstMora": "チ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1002,
+    "nameJa": "パオジアン",
+    "generation": 9,
+    "firstMora": "パ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1003,
+    "nameJa": "ディンルー",
+    "generation": 9,
+    "firstMora": "デ",
+    "lastMora": "ル",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1004,
+    "nameJa": "イーユイ",
+    "generation": 9,
+    "firstMora": "イ",
+    "lastMora": "イ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1005,
+    "nameJa": "トドロクツキ",
+    "generation": 9,
+    "firstMora": "ト",
+    "lastMora": "キ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1006,
+    "nameJa": "テツノブジン",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1007,
+    "nameJa": "コライドン",
+    "generation": 9,
+    "firstMora": "コ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1008,
+    "nameJa": "ミライドン",
+    "generation": 9,
+    "firstMora": "ミ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1009,
+    "nameJa": "ウネルミナモ",
+    "generation": 9,
+    "firstMora": "ウ",
+    "lastMora": "モ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1010,
+    "nameJa": "テツノイサハ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ハ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1011,
+    "nameJa": "カミッチュ",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "ユ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1012,
+    "nameJa": "チャデス",
+    "generation": 9,
+    "firstMora": "チ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1013,
+    "nameJa": "ヤバソチャ",
+    "generation": 9,
+    "firstMora": "ヤ",
+    "lastMora": "ヤ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1014,
+    "nameJa": "イイネイヌ",
+    "generation": 9,
+    "firstMora": "イ",
+    "lastMora": "ヌ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1015,
+    "nameJa": "マシマシラ",
+    "generation": 9,
+    "firstMora": "マ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1016,
+    "nameJa": "キチキギス",
+    "generation": 9,
+    "firstMora": "キ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1017,
+    "nameJa": "オーガポン",
+    "generation": 9,
+    "firstMora": "オ",
+    "lastMora": "ン",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1018,
+    "nameJa": "ブリジュラス",
+    "generation": 9,
+    "firstMora": "ブ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1019,
+    "nameJa": "カミツオロチ",
+    "generation": 9,
+    "firstMora": "カ",
+    "lastMora": "チ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1020,
+    "nameJa": "ウガツホムラ",
+    "generation": 9,
+    "firstMora": "ウ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1021,
+    "nameJa": "タケルライコ",
+    "generation": 9,
+    "firstMora": "タ",
+    "lastMora": "コ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1022,
+    "nameJa": "テツノイワオ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "オ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1023,
+    "nameJa": "テツノカシラ",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ラ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": false
+  },
+  {
+    "id": 1024,
+    "nameJa": "テラパゴス",
+    "generation": 9,
+    "firstMora": "テ",
+    "lastMora": "ス",
+    "types": [],
+    "isLegendary": true,
+    "isMythical": false
+  },
+  {
+    "id": 1025,
+    "nameJa": "モモワロウ",
+    "generation": 9,
+    "firstMora": "モ",
+    "lastMora": "ウ",
+    "types": [],
+    "isLegendary": false,
+    "isMythical": true
+  }
+]
