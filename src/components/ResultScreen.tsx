@@ -1,5 +1,5 @@
-import type { GameResult } from '../types';
-import { getAdvantageLabel, getAdvantageLevel, getAdvantageScore, getHintCandidates, getValidMoves, TYPE_JA } from '../lib/shiritori';
+import type { GameResult, Turn } from '../types';
+import { getAdvantageLabel, getAdvantageLevel, getAdvantageScore, getValidMoves, TYPE_JA } from '../lib/shiritori';
 
 interface Props {
   result: GameResult;
@@ -17,12 +17,43 @@ function typeLabel(types: string[]): string {
   return types.map(t => TYPE_JA[t] ?? t).join('・');
 }
 
+interface KeyLearning {
+  pokemon: ReturnType<typeof getValidMoves>[0];
+  mora: string;
+  score: number;
+}
+
+/** プレイヤーターンの有効手の中から、語尾 advantage score が低い順に最大 maxCount 件返す */
+function findKeyLearnings(history: Turn[], maxCount = 3): KeyLearning[] {
+  const seenMoras = new Set<string>();
+  const results: KeyLearning[] = [];
+  const usedIds = new Set<number>();
+
+  for (let i = 0; i < history.length; i++) {
+    const turn = history[i];
+    if (turn.player === 'player' && i > 0) {
+      const prevMora = history[i - 1].pokemon.lastMora;
+      const candidates = getValidMoves(prevMora, usedIds).filter(p => p.lastMora !== 'ン');
+      for (const p of candidates) {
+        if (seenMoras.has(p.lastMora)) continue;
+        const score = getAdvantageScore(p.lastMora, usedIds);
+        results.push({ pokemon: p, mora: p.lastMora, score });
+        seenMoras.add(p.lastMora);
+      }
+    }
+    usedIds.add(turn.pokemon.id);
+  }
+
+  return results.sort((a, b) => a.score - b.score).slice(0, maxCount);
+}
+
 export function ResultScreen({ result, onRetry, onTitle }: Props) {
   const playerWon = result.winner === 'player';
+  const learnings = findKeyLearnings(result.history);
 
   return (
     <div className="gb-screen flex flex-col h-full">
-      {/* Header */}
+      {/* ── Header ── */}
       <div
         className="px-3 py-3 text-center"
         style={{ background: playerWon ? 'var(--gb-darkest)' : 'var(--gb-dark)', color: 'var(--gb-lightest)' }}
@@ -36,149 +67,87 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
         </div>
       </div>
 
-      {/* Timeout: show available moves */}
-      {result.loseReason === 'timeout' && result.loser === 'player' && result.stuckMora && (() => {
-        const usedIds = new Set(result.history.map(t => t.pokemon.id));
-        const hints = getHintCandidates(result.stuckMora, usedIds);
-        // Gen3+ options sorted by advantage score (same logic as "おぼえるといい")
-        const gen3Options = getValidMoves(result.stuckMora, usedIds)
-          .filter(p => p.generation > 2 && p.lastMora !== 'ン')
-          .sort((a, b) => getAdvantageScore(b.lastMora, usedIds) - getAdvantageScore(a.lastMora, usedIds))
-          .slice(0, 3);
-        return (
-          <div className="mx-2 mt-2 flex flex-col gap-1">
-            {/* Gen1/2 options */}
-            <div className="p-2" style={{ background: 'var(--gb-lightest)', border: '3px solid var(--gb-darkest)' }}>
-              <div className="mb-1" style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
-                ⏰ 「{result.stuckMora}」でじかんぎれ ── だせたポケモン（1・2だい）
-              </div>
-              {hints.length > 0 ? (
-                <div className="flex flex-col gap-1">
-                  {hints.map(({ pokemon: p, isFallback }) => (
-                    <div key={p.id} className="flex items-center gap-2" style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
-                      <span>{p.nameJa}</span>
-                      {p.types.length > 0 && <span style={{ opacity: 0.7 }}>({typeLabel(p.types)})</span>}
-                      {isFallback && <span style={{ fontSize: '8px', opacity: 0.6 }}>Gen{p.generation}</span>}
-                    </div>
-                  ))}
-                </div>
-              ) : (
-                <div style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>なし</div>
-              )}
-            </div>
-            {/* Gen3+ study targets */}
-            {gen3Options.length > 0 && (
-              <div className="p-2" style={{ background: 'var(--gb-lightest)', border: '2px dashed var(--gb-darkest)' }}>
-                <div className="mb-1" style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
-                  📖 おぼえるといい（Gen3+）
-                </div>
-                <div className="flex flex-col gap-1">
-                  {gen3Options.map(p => (
-                    <div key={p.id} style={{ fontSize: '9px', color: 'var(--gb-darkest)' }}>
-                      <strong>{p.nameJa}</strong>
-                      <span className="ml-1" style={{ opacity: 0.7 }}>（Gen{p.generation}）</span>
-                      {p.types.length > 0 && (
-                        <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(p.types)})</span>
-                      )}
-                      <span className="ml-2">{getAdvantageLabel(getAdvantageScore(p.lastMora, usedIds))}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
-          </div>
-        );
-      })()}
-
-      {/* Turn review */}
+      {/* ── 今回の学び ── */}
       <div className="flex-1 overflow-y-auto p-2 flex flex-col gap-2" style={{ minHeight: 0 }}>
-        <div className="mb-1" style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
-          ── ふりかえり ──
+
+        {/* タイムアウト補足 */}
+        {result.loseReason === 'timeout' && result.loser === 'player' && result.stuckMora && (
+          <div
+            className="px-2 py-1"
+            style={{ background: 'var(--gb-dark)', color: 'var(--gb-lightest)', fontSize: '9px' }}
+          >
+            ⏰ 「{result.stuckMora}」で{LOSE_REASON_LABEL.timeout}
+          </div>
+        )}
+
+        {/* セクションタイトル */}
+        <div style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
+          📌 このゲームでおぼえること
         </div>
 
-        {result.history.map((turn, i) => {
-          const isCpu = turn.player === 'cpu';
-          const level = getAdvantageLevel(turn.advantageScore);
-          const best = turn.bestAlternative;
-          const isOptimal = !best;
-
-          return (
-            <div
-              key={i}
-              className="flex flex-col gap-1 p-2"
-              style={{ background: isCpu ? 'var(--gb-dark)' : 'var(--gb-lightest)', border: '3px solid var(--gb-darkest)' }}
-            >
-              <div className="flex justify-between items-center">
-                <span style={{ fontSize: '9px', color: isCpu ? 'var(--gb-lightest)' : 'var(--gb-dark)' }}>
-                  {i + 1}. {isCpu ? 'CPU' : 'あなた'}
-                </span>
-                <span style={{ fontSize: '13px', color: isCpu ? 'var(--gb-lightest)' : 'var(--gb-darkest)' }}>
-                  {turn.pokemon.nameJa}
-                </span>
-                <span
-                  className={level === 'danger' && !isCpu ? 'blink' : ''}
-                  style={{ fontSize: '9px', padding: '1px 4px', background: 'var(--gb-light)', border: '2px solid var(--gb-darkest)', color: 'var(--gb-darkest)' }}
-                >
-                  {getAdvantageLabel(turn.advantageScore)}
-                </span>
-              </div>
-
-              {/* Best alternative for player turns */}
-              {!isCpu && (
-                <div className="flex flex-col gap-1 mt-1">
-                  {/* Gen1/2 best */}
-                  <div
-                    className="p-1"
-                    style={{ background: isOptimal ? 'var(--gb-light)' : 'var(--gb-lightest)', border: '2px solid var(--gb-darkest)', color: 'var(--gb-darkest)', fontSize: '8px' }}
+        {learnings.length === 0 ? (
+          <div
+            className="p-2"
+            style={{ background: 'var(--gb-lightest)', border: '3px solid var(--gb-darkest)', fontSize: '9px', color: 'var(--gb-darkest)' }}
+          >
+            ✓ このゲームに新たな学びはありませんでした
+          </div>
+        ) : (
+          learnings.map(({ pokemon: p, mora, score }, idx) => {
+            const level = getAdvantageLevel(score);
+            return (
+              <div
+                key={idx}
+                className="p-2 flex flex-col gap-1"
+                style={{
+                  background: 'var(--gb-lightest)',
+                  border: `3px solid var(--gb-darkest)`,
+                  borderLeft: `6px solid ${level === 'danger' ? 'var(--gb-darkest)' : 'var(--gb-dark)'}`,
+                }}
+              >
+                {/* ポケモン名 + 語尾バッジ */}
+                <div className="flex justify-between items-center">
+                  <span style={{ fontSize: '14px', color: 'var(--gb-darkest)', fontWeight: 'bold' }}>
+                    {p.nameJa}
+                  </span>
+                  <span
+                    className={level === 'danger' ? 'blink' : ''}
+                    style={{
+                      fontSize: '9px', padding: '1px 5px',
+                      background: level === 'danger' ? 'var(--gb-darkest)' : 'var(--gb-dark)',
+                      color: 'var(--gb-lightest)',
+                      border: '2px solid var(--gb-darkest)',
+                    }}
                   >
-                    {isOptimal ? (
-                      <span>✓ さいぜんてでした！</span>
-                    ) : (
-                      <>
-                        <div className="mb-1">
-                          💡 さいぜんて: <strong>{best!.nameJa}</strong>
-                          {best!.types.length > 0 && (
-                            <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(best!.types)})</span>
-                          )}
-                        </div>
-                        <div>
-                          ごび「{best!.lastMora}」→ {getAdvantageLabel(getAdvantageScore(best!.lastMora))}
-                          <span className="ml-2" style={{ opacity: 0.7 }}>
-                            （あなたの「{turn.pokemon.lastMora}」は {getAdvantageLabel(turn.advantageScore)}）
-                          </span>
-                        </div>
-                      </>
-                    )}
-                  </div>
-                  {/* All-gen study target (only shown when non-Gen1/2 is strictly better) */}
-                  {turn.bestMoveAllGen && (() => {
-                    const ag = turn.bestMoveAllGen!;
-                    return (
-                      <div
-                        className="p-1"
-                        style={{ background: 'var(--gb-lightest)', border: '2px dashed var(--gb-darkest)', color: 'var(--gb-darkest)', fontSize: '8px' }}
-                      >
-                        <div className="mb-1">
-                          📖 おぼえるといい: <strong>{ag.nameJa}</strong>
-                          <span className="ml-1" style={{ opacity: 0.7 }}>（Gen{ag.generation}）</span>
-                          {ag.types.length > 0 && (
-                            <span className="ml-1" style={{ opacity: 0.8 }}>({typeLabel(ag.types)})</span>
-                          )}
-                        </div>
-                        <div>
-                          ごび「{ag.lastMora}」→ {getAdvantageLabel(getAdvantageScore(ag.lastMora))}
-                        </div>
-                      </div>
-                    );
-                  })()}
+                    {getAdvantageLabel(score)}
+                  </span>
                 </div>
-              )}
-            </div>
-          );
-        })}
+
+                {/* 世代・タイプ */}
+                <div className="flex gap-2 items-center" style={{ fontSize: '8px', color: 'var(--gb-dark)' }}>
+                  {p.generation > 2 && <span>Gen{p.generation}</span>}
+                  {p.types.length > 0 && <span>{typeLabel(p.types)}</span>}
+                </div>
+
+                {/* 解説 */}
+                <div
+                  className="mt-1 px-2 py-1"
+                  style={{ background: 'var(--gb-light)', fontSize: '8px', color: 'var(--gb-darkest)', lineHeight: 1.8 }}
+                >
+                  ごび「{mora}」はGen1・2が{score}しゅ。
+                  {score === 0
+                    ? '相手に選択肢がなく、かならず詰められる。'
+                    : score <= 2
+                    ? '相手の選択肢が少なく、追いつめやすい語尾。'
+                    : '覚えておくと有利に進められる語尾。'}
+                </div>
+              </div>
+            );
+          })
+        )}
       </div>
 
-      {/* Buttons */}
+      {/* ── ボタン ── */}
       <div className="flex gap-2 p-2" style={{ background: 'var(--gb-dark)', borderTop: '4px solid var(--gb-darkest)' }}>
         <button className="gb-btn flex-1 text-center" style={{ fontSize: '11px' }} onClick={onRetry}>
           もう一度
