@@ -1,5 +1,5 @@
 import type { GameResult, Turn } from '../types';
-import { getAdvantageLabel, getAdvantageLevel, getAdvantageScore, getValidMoves, TYPE_JA } from '../lib/shiritori';
+import { allPokemon, getValidMoves, TYPE_JA } from '../lib/shiritori';
 
 interface Props {
   result: GameResult;
@@ -23,7 +23,10 @@ interface KeyLearning {
   score: number;
 }
 
-/** プレイヤーターンの有効手の中から、語尾 advantage score が低い順に最大 maxCount 件返す */
+/**
+ * プレイヤーターンの有効手の中から、語尾を「全ポケモンで返せる数」が少ない順に最大 maxCount 件返す。
+ * 相手が1000種類知っていても詰まりやすい語尾 = 覚えると実戦で最も役立つポケモン。
+ */
 function findKeyLearnings(history: Turn[], maxCount = 3): KeyLearning[] {
   const seenMoras = new Set<string>();
   const results: KeyLearning[] = [];
@@ -36,7 +39,9 @@ function findKeyLearnings(history: Turn[], maxCount = 3): KeyLearning[] {
       const candidates = getValidMoves(prevMora, usedIds).filter(p => p.lastMora !== 'ン');
       for (const p of candidates) {
         if (seenMoras.has(p.lastMora)) continue;
-        const score = getAdvantageScore(p.lastMora, usedIds);
+        // 全ポケモンで語尾から返せる数（ン終わり除外）= 相手が詰まりやすさの指標
+        const score = getValidMoves(p.lastMora, usedIds, allPokemon)
+          .filter(q => q.lastMora !== 'ン').length;
         results.push({ pokemon: p, mora: p.lastMora, score });
         seenMoras.add(p.lastMora);
       }
@@ -94,32 +99,32 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
           </div>
         ) : (
           learnings.map(({ pokemon: p, mora, score }, idx) => {
-            const level = getAdvantageLevel(score);
+            // 全ポケモン基準のレア度（スコアが低いほどレア）
+            const isVeryRare = score <= 3;
             return (
               <div
                 key={idx}
                 className="p-2 flex flex-col gap-1"
                 style={{
                   background: 'var(--gb-lightest)',
-                  border: `3px solid var(--gb-darkest)`,
-                  borderLeft: `6px solid ${level === 'danger' ? 'var(--gb-darkest)' : 'var(--gb-dark)'}`,
+                  border: '3px solid var(--gb-darkest)',
+                  borderLeft: `6px solid ${isVeryRare ? 'var(--gb-darkest)' : 'var(--gb-dark)'}`,
                 }}
               >
-                {/* ポケモン名 + 語尾バッジ */}
+                {/* ポケモン名 + 語尾カウント */}
                 <div className="flex justify-between items-center">
                   <span style={{ fontSize: '14px', color: 'var(--gb-darkest)', fontWeight: 'bold' }}>
                     {p.nameJa}
                   </span>
                   <span
-                    className={level === 'danger' ? 'blink' : ''}
                     style={{
                       fontSize: '9px', padding: '1px 5px',
-                      background: level === 'danger' ? 'var(--gb-darkest)' : 'var(--gb-dark)',
+                      background: isVeryRare ? 'var(--gb-darkest)' : 'var(--gb-dark)',
                       color: 'var(--gb-lightest)',
                       border: '2px solid var(--gb-darkest)',
                     }}
                   >
-                    {getAdvantageLabel(score)}
+                    ごび「{mora}」{score}しゅ
                   </span>
                 </div>
 
@@ -134,11 +139,12 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
                   className="mt-1 px-2 py-1"
                   style={{ background: 'var(--gb-light)', fontSize: '8px', color: 'var(--gb-darkest)', lineHeight: 1.8 }}
                 >
-                  ごび「{mora}」はGen1・2が{score}しゅ。
                   {score === 0
-                    ? '相手に選択肢がなく、かならず詰められる。'
-                    : score <= 2
-                    ? '相手の選択肢が少なく、追いつめやすい語尾。'
+                    ? 'どんな相手でも必ず詰められる最強の語尾。'
+                    : score <= 3
+                    ? '全ポケモンでも選択肢が極めて少なく、強力に追いつめられる。'
+                    : score <= 8
+                    ? '全ポケモンでも選択肢が少なく、追いつめやすい語尾。'
                     : '覚えておくと有利に進められる語尾。'}
                 </div>
               </div>

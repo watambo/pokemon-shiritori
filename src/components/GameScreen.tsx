@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import type { GameState } from '../hooks/useGame';
-import { getAdvantageLabel, getAdvantageLevel, getHintCandidates, TYPE_JA } from '../lib/shiritori';
+import { getHintCandidates, TYPE_JA } from '../lib/shiritori';
 
 interface Props {
   state: GameState;
@@ -8,18 +8,6 @@ interface Props {
   onGiveUp: () => void;
 }
 
-function AdvBadge({ score }: { score: number }) {
-  const level = getAdvantageLevel(score);
-  const label = getAdvantageLabel(score);
-  return (
-    <span
-      className={`px-1 ${level === 'danger' ? 'blink' : ''}`}
-      style={{ fontSize: '8px', color: 'var(--gb-darkest)', background: 'var(--gb-light)', border: '2px solid var(--gb-darkest)' }}
-    >
-      {label}
-    </span>
-  );
-}
 
 export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
   const [input, setInput] = useState('');
@@ -99,7 +87,6 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
       <div ref={chatRef} className="flex-1 overflow-y-auto p-2 flex flex-col gap-2" style={{ minHeight: 0 }}>
         {state.history.map((turn, i) => {
           const isCpu = turn.player === 'cpu';
-          const level = getAdvantageLevel(turn.advantageScore);
           return (
             <div key={i} className={`flex flex-col ${isCpu ? 'items-start' : 'items-end'}`}>
               <div className="mb-1 px-1" style={{ fontSize: '8px', color: 'var(--gb-dark)' }}>
@@ -107,15 +94,6 @@ export function GameScreen({ state, onSubmit, onGiveUp }: Props) {
               </div>
               <div className={`bubble-${isCpu ? 'cpu' : 'player'} px-3 py-2 max-w-[80%]`} style={{ fontSize: '13px' }}>
                 {turn.pokemon.nameJa}
-              </div>
-              <div className="flex items-center gap-1 mt-1">
-                <span style={{ fontSize: '8px', color: 'var(--gb-dark)' }}>
-                  ごび「{turn.pokemon.lastMora}」
-                </span>
-                <AdvBadge score={turn.advantageScore} />
-                {level === 'danger' && (
-                  <span className="blink" style={{ fontSize: '8px', color: 'var(--gb-darkest)' }}>⚠</span>
-                )}
               </div>
             </div>
           );

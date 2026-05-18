@@ -5,10 +5,10 @@ interface Props {
   onStart: (difficulty: Difficulty) => void;
 }
 
-const DIFFICULTIES: { value: Difficulty; label: string; desc: string }[] = [
-  { value: 'easy',   label: 'よわい',  desc: 'ランダムにえらぶ' },
-  { value: 'medium', label: 'ふつう',  desc: '1・2だいをねらう' },
-  { value: 'hard',   label: 'つよい',  desc: 'のがれられない！' },
+const DIFFICULTIES: { value: Difficulty; label: string }[] = [
+  { value: 'easy',   label: 'よわい' },
+  { value: 'medium', label: 'ふつう' },
+  { value: 'hard',   label: 'つよい' },
 ];
 
 export function TitleScreen({ onStart }: Props) {
@@ -43,11 +43,10 @@ export function TitleScreen({ onStart }: Props) {
           {DIFFICULTIES.map(d => (
             <button
               key={d.value}
-              className={`gb-btn w-full text-left flex justify-between items-center${selected === d.value ? ' selected' : ''}`}
+              className={`gb-btn w-full text-left${selected === d.value ? ' selected' : ''}`}
               onClick={() => setSelected(d.value)}
             >
               <span style={{ fontSize: '11px' }}>{selected === d.value ? '▶ ' : '　'}{d.label}</span>
-              <span style={{ fontSize: '8px', opacity: 0.85 }}>{d.desc}</span>
             </button>
           ))}
         </div>
