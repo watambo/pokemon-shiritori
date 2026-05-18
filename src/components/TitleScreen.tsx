@@ -30,8 +30,8 @@ export function TitleScreen({ onStart }: Props) {
       <div className="pixel-box p-3 w-full leading-loose" style={{ background: 'var(--gb-light)', fontSize: '9px' }}>
         <div style={{ color: 'var(--gb-darkest)' }}>▸ 「ン」でおわるとまけ</div>
         <div style={{ color: 'var(--gb-darkest)' }}>▸ 1ターン60びょう</div>
-        <div style={{ color: 'var(--gb-darkest)' }}>▸ 20びょうでなまえヒント</div>
-        <div style={{ color: 'var(--gb-darkest)' }}>▸ 40びょうでくわしいヒント</div>
+        <div style={{ color: 'var(--gb-darkest)' }}>▸ 20びょうけいかでヒント</div>
+        <div style={{ color: 'var(--gb-darkest)' }}>▸ かくゲームでおぼえることをかいせつ</div>
       </div>
 
       {/* Difficulty */}

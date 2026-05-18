@@ -85,9 +85,14 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
           </div>
         )}
 
-        {/* セクションタイトル */}
-        <div style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
-          📌 このゲームでおぼえること
+        {/* セクションタイトル + 共通説明 */}
+        <div>
+          <div style={{ fontSize: '10px', color: 'var(--gb-darkest)' }}>
+            📌 このゲームでおぼえること
+          </div>
+          <div className="mt-1" style={{ fontSize: '8px', color: 'var(--gb-dark)' }}>
+            語尾から返せる全ポケモンが少ないほど相手を追いつめやすい。
+          </div>
         </div>
 
         {learnings.length === 0 ? (
@@ -134,19 +139,6 @@ export function ResultScreen({ result, onRetry, onTitle }: Props) {
                   {p.types.length > 0 && <span>{typeLabel(p.types)}</span>}
                 </div>
 
-                {/* 解説 */}
-                <div
-                  className="mt-1 px-2 py-1"
-                  style={{ background: 'var(--gb-light)', fontSize: '8px', color: 'var(--gb-darkest)', lineHeight: 1.8 }}
-                >
-                  {score === 0
-                    ? 'どんな相手でも必ず詰められる最強の語尾。'
-                    : score <= 3
-                    ? '全ポケモンでも選択肢が極めて少なく、強力に追いつめられる。'
-                    : score <= 8
-                    ? '全ポケモンでも選択肢が少なく、追いつめやすい語尾。'
-                    : '覚えておくと有利に進められる語尾。'}
-                </div>
               </div>
             );
           })
